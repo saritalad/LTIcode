@@ -1,0 +1,9 @@
+bin\Debug\LateBinding.exe
+bin\Debug\LateBinding.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LateBinding.Form1.resources
+obj\Debug\LateBinding.Properties.Resources.resources
+obj\Debug\LateBinding.csproj.GenerateResource.Cache
+obj\Debug\LateBinding.exe
+obj\Debug\LateBinding.pdb
+obj\Debug\LateBinding.Form2.resources

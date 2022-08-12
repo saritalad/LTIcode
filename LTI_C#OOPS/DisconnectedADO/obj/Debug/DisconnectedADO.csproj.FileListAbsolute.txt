@@ -1,0 +1,31 @@
+Z:\A_Win App Projects\DisconnectedADO\bin\Debug\DisconnectedADO.exe
+Z:\A_Win App Projects\DisconnectedADO\bin\Debug\DisconnectedADO.pdb
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.Form1.resources
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.Properties.Resources.resources
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.exe
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.pdb
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.MDIParent1.resources
+Z:\A_Win App Projects\DisconnectedADO\obj\Debug\DisconnectedADO.Frm_WithParameter.resources
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.exe
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.pdb
+D:\A_Seed\Window Applications\DisconnectedADO\bin\Debug\DisconnectedADO.exe
+D:\A_Seed\Window Applications\DisconnectedADO\bin\Debug\DisconnectedADO.pdb
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\ResolveAssemblyReference.cache
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.Form1.resources
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.Frm_WithParameter.resources
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.MDIParent1.resources
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.Properties.Resources.resources
+D:\A_Seed\Window Applications\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.GenerateResource.Cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\bin\Debug\DisconnectedADO.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\bin\Debug\DisconnectedADO.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.Frm_WithParameter.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.MDIParent1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\DisconnectedADO\obj\Debug\DisconnectedADO.pdb

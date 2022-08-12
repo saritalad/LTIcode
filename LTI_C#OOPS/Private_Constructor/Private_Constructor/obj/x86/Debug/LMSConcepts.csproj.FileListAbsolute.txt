@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\LMSConcepts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\LMSConcepts\bin\Debug\LMSConcepts.exe
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\LMSConcepts\bin\Debug\LMSConcepts.pdb
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\LMSConcepts\obj\x86\Debug\LMSConcepts.exe
+C:\Users\COMPAQ\AppData\Local\Temporary Projects\LMSConcepts\obj\x86\Debug\LMSConcepts.pdb

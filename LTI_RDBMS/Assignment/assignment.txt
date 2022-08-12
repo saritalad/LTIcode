@@ -1,0 +1,12 @@
+Assignment 1 write stored proc to insert data in table student
+2 write sp to display average marks of students 
+3 write sp to update city in student table giving name of student
+ 4 write UDF to display category wise average price of items in items table
+ 5 write   sp to insert record   of book,
+6 write sp to update bookprice by giving auther and subject,
+7 write sp to list books giving authername
+8 write sp to delete books by giving subject.
+9 write function to  display fullname of employee by passing firstname and lastname of emp. 
+and call this function in select query:
+===================================  
+Case study : create appropriate tables for working online on saving account ( user wants to open saving account in bank so  applies online to provides his personal details, and submits documents and his saving account is created , then he does withdraw and deposit transactions,(transaction table) he does fund transfers for that create fund transfer table.

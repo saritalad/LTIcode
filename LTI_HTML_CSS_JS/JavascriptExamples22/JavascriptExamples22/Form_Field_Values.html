@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .democlass {
+                color: red;
+             }
+        </style>
+    </head>
+    <body>
+        <h1 class="democlass">Ways to retrieve Form Field Values:</h1>
+        <form id="f1" name="form1">
+      <input type='text' name="tax" id="n1"><br>
+      <input type='text' name="premium" id="n2">
+
+  <br>
+          <input type="submit" value="Try it" onclick="myFunction()">
+    </form>
+    <br>
+    <form id="f2" name="form2">
+     <input type="radio" id="r1" name="gender" value="female">Female</imput>
+
+    </form>
+        <script>
+            function myFunction() {
+              x1=window.document.forms["f1"].elements["n2"].value;
+              x2=window.document.forms[0].elements[1].value;
+              x3=window.document.forms[0].elements["premium"].value;
+              x4=window.document.forms[1].elements["r1"].value;
+              alert("x4 ="+x4);
+
+            // x= document.getElementById("n1").value;
+            // x=window.document.forms[0].name;
+           window. alert("x1= "+x1+ "x2 ="+x2+"x3 ="+x3);
+               x=window.document.URL;
+               alert(x);
+            }
+           
+        </script>
+    </body>
+</html>

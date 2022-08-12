@@ -1,0 +1,13 @@
+Z:\A_Win App Projects\DataReader_Examples\bin\Debug\DataReader_Examples.exe
+Z:\A_Win App Projects\DataReader_Examples\bin\Debug\DataReader_Examples.pdb
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.Form1.resources
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.MDIParent1.resources
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.Properties.Resources.resources
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.exe
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.pdb
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.Form3.resources
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.Form4.resources
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.ASynchronous.resources
+Z:\A_Win App Projects\DataReader_Examples\obj\Debug\DataReader_Examples.Search.resources

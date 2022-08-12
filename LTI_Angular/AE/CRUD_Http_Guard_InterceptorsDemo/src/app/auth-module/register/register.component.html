@@ -1,0 +1,67 @@
+<p>registration Form</p>
+<form #login="ngForm" (ngSubmit)="onSubmit(login.value)">
+    <div class="container">
+        <h1>User Registration</h1>
+        <!-- <div class="form-group">
+            <label for="Id">Id</label><br>
+            <input type="text" name="id" class="form-control" [(ngModel)]="user.id" #id="ngModel">
+        </div> -->
+        <pre></pre>
+        <div class="form-group">
+            <label for="firstname">Firstname</label><br>
+            <input #name="ngModel" required minlength="2" maxlength="10" type="text" name="firstName"
+                class="form-control" [(ngModel)]="user.firstName">
+            <div *ngIf="name.touched && name.invalid" class="alert alert-danger">
+                <p *ngIf="name.hasError('required')">Firstname is required</p>
+                <p *ngIf="name.hasError('minlength')">minimum length should be 2</p>
+            </div>
+
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="lastname">lastname</label><br>
+            <input type="text" #lname="ngModel" name="lastName" class="form-control" [(ngModel)]="user.lastName">
+            <div *ngIf="lname.touched && lname.invalid" class="alert alert-danger">
+                <p *ngIf="lname.hasError('required')">Lastname is required</p>
+                <p *ngIf="lname.hasError('minlength')">minimum length should be 2</p>
+            </div>
+        </div>
+        <div class="form-group">a
+            <label for="password">password</label><br>
+            <input type="text" #password="ngModel" name="password" class="form-control" [(ngModel)]="user.password">
+            <div *ngIf="password.touched && password.invalid" class="alert alert-danger">
+                <p *ngIf="password.hasError('required')">password is required</p>
+                <p *ngIf="password.hasError('minlength')">minimum length should be 2</p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="Email">email</label><br>
+            <input required type="text" name="email" class="form-control" [(ngModel)]="user.email" #email="ngModel">
+            <div *ngIf="email.touched && email.invalid" class="alert alert-danger">
+                <p *ngIf="email.hasError('required')">Email required</p>
+                <p *ngIf="email.hasError('patttern')">@ symbol : email should be in proper format</p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="Security Question">Seurity Question:</label><br>
+            <select class="form-control" name="securityQuestion" [(ngModel)]="user.securityQuestion" #securityQuestion="ngModel">
+                <option> select Security Question</option>
+                <option *ngFor="let q of questions" [value]="q">{{q}}</option>
+            </select>
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="securityAnswer">securityAnswer</label><br>
+            <input required type="text" name="securityAnswer" class="form-control" [(ngModel)]="user.securityAnswer" #securityAnswer="ngModel">
+            <div *ngIf="securityAnswer.touched && securityAnswer.invalid" class="alert alert-danger">
+                <p *ngIf="securityAnswer.hasError('required')">securityAnswer required</p>
+            </div>
+        </div>
+
+
+
+        <button type="submit" class="btn btn-primary" [disabled]="!login.valid">Submit</button>
+
+
+    </div>
+</form>

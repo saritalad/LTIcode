@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhJEDvBTMXVkhchuO+d9C6MiWMXr4Ti8Ae/NLM5aOlM5tBEEOKyB5GGlPEha5XUD2yLt+GyVp19NE+weeUN7gw==",
+  "success": true,
+  "projectFilePath": "E:\\LTI\\LTI_WEBAPI\\LTI_WEBAPI\\WEBAPI_Example\\WEBAPI_Example\\WEBAPI_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

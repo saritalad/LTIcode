@@ -1,0 +1,25 @@
+  let id = this.activedoute.snapshot.params["id"];
+    console.log(" id "+id);
+    this._userservice.getuserById(id)
+      .subscribe(
+        user => {
+          this.currentuser = user;
+        }
+      )
+
+getuserById(id:number):Observable<any>
+ {
+   return this.http.get<any>(`${this.url}/${id}`);
+ }
+update(data: any): Observable<any> {
+  let API_Url=this.url;
+  return this.http.put(API_Url, data).pipe(
+    catchError(this.handleError)
+  )
+}
+update(data: any): Observable<any> {
+  let API_Url=this.url;
+  return this.http.put(API_Url, data).pipe(
+    catchError(this.handleError)
+  )
+}

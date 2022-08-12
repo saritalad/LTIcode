@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L1wrGn/hnVujf/3OrMIL5Mm9R6tkZ+V1Q57Ho9zI3Fy/3RzXR4VRuzwGNDf5XsUVzzpLm+fFJbQVPywdAHK8kg==",
+  "success": true,
+  "projectFilePath": "E:\\LTI_MVC\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+<h1>currency Formats using pipe!</h1>
+<div class="card-text">
+    <p ngNonBindable>{{ 1234.56 | currency:'CAD' }}</p>
+    <p>{{ 1234.56 | currency:"CAD" }}</p>
+
+    <p ngNonBindable>{{ 1234.56 | currency:'CAD':'code' }}</p>
+    <p>{{ 1234.56 | currency:'CAD':'code'}}</p>
+
+    <p ngNonBindable>{{ 1234.56 | currency:'CAD':'symbol' }}</p>
+    <p>{{ 1234.56 | currency:'CAD':'symbol'}}</p>
+
+    <p ngNonBindable>{{ 1234.56 | currency:'CAD':'symbol-narrow' }}</p>
+    <p>{{ 1234.56 | currency:'CAD':'symbol-narrow'}}</p>
+  </div>

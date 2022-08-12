@@ -1,0 +1,29 @@
+
+<h2>propertbinging Child Component!</h2>
+<h2>Interpolation Example</h2>
+<h3>UserName : {{user.name}}</h3>
+<h3>Email :{{user.email}}</h3>
+
+<div>
+    <form>
+    Display value in input control <input type="text" [value]="name"/><br>
+    <input type="text" [value]="profession">
+<br>
+</form>
+</div>
+<h1>Event Binding</h1>
+<div>
+    <div>  
+        <h2>Demo of Event Binding in Angular 8</h2>  
+        <input type="button" value="Click" class="btn-block" (click)="showAlert()" />  
+        <br /><br />  
+       <br>
+       <input type="button" value="count"  class="btn-block" (click)="ShowCount()" />
+        
+    </div>  
+</div>
+<hr>
+<h1>Two way binding</h1>
+<label for="email">Email:</label>
+<input type="text" [(ngModel)]="user.email">
+{{user.email}}

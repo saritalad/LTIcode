@@ -1,0 +1,15 @@
+<!-- <div>
+  <h1>{{user.firstname|highlight:user.firstname}}</h1>
+  <h2><img [src]="user.imageUrl|image:'/assets/defaultimage.jpg'" alt={{user.firstname}}></h2>
+</div> -->
+<h1 appHighlight>custom directive and custom pipe for image </h1>
+<h2>routing configuaration</h2>
+<h4>Please hover mouse to check custom directive</h4>
+<div class="container">
+<nav>
+  <a routerLink="/userlist" routerLinkActive="active"> user List </a>
+  <a routerLink="/aboutus">About Us</a>
+  
+</nav>
+</div>
+<router-outlet></router-outlet>

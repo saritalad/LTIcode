@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_array", "Jagged_array.csproj", "{7A641653-F932-4DCF-81A2-DA29CCC047C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer_file_example", "..\Indexer_file_example\Indexer_file_example.csproj", "{7A4ED46E-91BA-4FF9-B505-FB1CA7DE89AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moreJaggedArray", "..\moreJaggedArray\moreJaggedArray.csproj", "{2DC53BC7-6293-4241-802E-8056431ECE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A641653-F932-4DCF-81A2-DA29CCC047C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A641653-F932-4DCF-81A2-DA29CCC047C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A641653-F932-4DCF-81A2-DA29CCC047C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A641653-F932-4DCF-81A2-DA29CCC047C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4ED46E-91BA-4FF9-B505-FB1CA7DE89AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4ED46E-91BA-4FF9-B505-FB1CA7DE89AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4ED46E-91BA-4FF9-B505-FB1CA7DE89AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4ED46E-91BA-4FF9-B505-FB1CA7DE89AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC53BC7-6293-4241-802E-8056431ECE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC53BC7-6293-4241-802E-8056431ECE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC53BC7-6293-4241-802E-8056431ECE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC53BC7-6293-4241-802E-8056431ECE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

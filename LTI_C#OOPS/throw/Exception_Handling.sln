@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{9B3319FD-8E0F-44A5-91FA-95535CDD0DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide_By_Zero_Demo", "divide_by_zero\Divide_By_Zero_Demo.csproj", "{1E156BE4-A301-47E4-885D-E5F24138F72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User_Defined_Exception_Demo", "User_Defined_Exception\User_Defined_Exception_Demo.csproj", "{0377C3FA-AEEA-4862-9E99-08B79C51D338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3319FD-8E0F-44A5-91FA-95535CDD0DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3319FD-8E0F-44A5-91FA-95535CDD0DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3319FD-8E0F-44A5-91FA-95535CDD0DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3319FD-8E0F-44A5-91FA-95535CDD0DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E156BE4-A301-47E4-885D-E5F24138F72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E156BE4-A301-47E4-885D-E5F24138F72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E156BE4-A301-47E4-885D-E5F24138F72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E156BE4-A301-47E4-885D-E5F24138F72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0377C3FA-AEEA-4862-9E99-08B79C51D338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0377C3FA-AEEA-4862-9E99-08B79C51D338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0377C3FA-AEEA-4862-9E99-08B79C51D338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0377C3FA-AEEA-4862-9E99-08B79C51D338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

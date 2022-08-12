@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\Private_Constructor\Private_Constructor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.pdb
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\Private_Constructor\Private_Constructor\obj\x86\Debug\Private_Constructor.exe
+C:\Users\COMPAQ\documents\visual studio 2010\Projects\Private_Constructor\Private_Constructor\obj\x86\Debug\Private_Constructor.pdb

@@ -1,0 +1,41 @@
+<p>add works!</p>
+<form #login="ngForm" novalidate (ngSubmit)="onSubmit(login.value)">
+    <div class="container">
+        <h1>User Registration</h1>
+        <div class="form-group">
+            <label for="Id">Id</label><br>
+            <input type="text" name="id" class="form-control" ngModel>
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="firstname">Firstname</label><br>
+            <input #name="ngModel" required minlength="2" maxlength="10" type="text" name="firstname" class="form-control" ngModel>
+            <div *ngIf="name.touched && name.invalid" class="alert alert-danger">
+                <p *ngIf="name.hasError('required')">Firstname is required</p>
+                <p *ngIf="name.hasError('minlength')">minimum length should be 2</p>
+            </div>
+        
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="lastname">lastname</label><br>
+            <input type="text" #lname="ngModel"  name="lastname" class="form-control" ngModel>
+            <div *ngIf="lname.touched && lname.invalid" class="alert alert-danger">
+                <p *ngIf="lname.hasError('required')">Lastname is required</p>
+                <p *ngIf="lname.hasError('minlength')">minimum length should be 2</p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="age">Age</label><br>
+            <input #age="ngModel" required type="text" name="age" class="form-control" ngModel>
+            <div *ngIf="age.touched &&age.invalid" class="alert alert-danger">
+                <p *ngIf="age.hasError('required')">age is required</p>
+                <p *ngIf="age.hasError('minlength')">minimum length should be 2</p>
+            </div>
+        </div>
+        
+        <pre></pre>
+        <button type="submit" class="btn btn-primary" [disabled]="!login.valid">Submit</button>
+
+    </div>
+    

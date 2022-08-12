@@ -1,0 +1,13 @@
+=================
+  [HttpGet]
+        [Route("GetAccountStatement")]
+        public ActionResult <IEnumerable<AccountStatementModel>>GetAccountStatement(int id)
+        {
+                    
+          //  var data = _context.accounts.FromSqlRaw("exec dbo.AccountStatement @id", idParam).ToList();
+                //data=  _context.accounts.FromSqlRaw($"exec dbo.AccountStatement {id}");
+                
+            var data = _context.statements.FromSqlInterpolated($"dbo.AccountStatement {id}");
+            return Ok(data);
+
+        }

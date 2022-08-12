@@ -1,0 +1,17 @@
+<div class="row ">
+    <div class="col-md-12">
+        <h2>Users List</h2>
+        <div class="row">
+        <ng-container *ngFor="let user of users">
+            <div class="col-md-4" appHighlight>
+                <h2>{{user.firstname|highlight}}</h2>
+                <h2 class="card-title" [ngStyle]="{color:'green'}">Name:{{(user.firstname+user.lastname)|uppercase}}</h2>
+                <h3 class="card-text" [ngStyle]="{color:'brown'}">Profession:{{user.profession|titlecase}}</h3>
+                <h3 class="card-text" [ngStyle]="{color:'blue'}">Date of Birth:{{user.dateOfBirth|date:'dd-MMM-yyyy'}}</h3>
+                <h3 class="card-text" [ngStyle]="{color:'red'}">Email:{{user.email|lowercase}}</h3>
+                <img src={{user.imageUrl|image}}>   
+            </div>
+        </ng-container>
+    </div>
+    </div>
+</div>

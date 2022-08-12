@@ -1,0 +1,14 @@
+﻿
+
+@{
+
+    var employee =ViewData["emp"] as Employee;
+}
+
+<div class="text-left">
+    <h1 class="display-4">Welcome</h1>
+  ID:  @employee.Id<br />
+  Name  @employee.Name<br/>
+  Department @employee.Department
+   </div>
+<h1> Welcome @TempData["login"]</h1>

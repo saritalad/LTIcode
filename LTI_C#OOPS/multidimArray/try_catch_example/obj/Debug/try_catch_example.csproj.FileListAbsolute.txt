@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\try_catch_example\bin\Debug\try_catch_example.exe
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\try_catch_example\bin\Debug\try_catch_example.pdb
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\try_catch_example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\try_catch_example\obj\Debug\try_catch_example.exe
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\try_catch_example\obj\Debug\try_catch_example.pdb
+Z:\SARITA\multidimArray\try_catch_example\obj\Debug\try_catch_example.exe
+Z:\SARITA\multidimArray\try_catch_example\obj\Debug\try_catch_example.pdb
+Z:\SARITA\multidimArray\try_catch_example\bin\Debug\try_catch_example.exe
+Z:\SARITA\multidimArray\try_catch_example\bin\Debug\try_catch_example.pdb
+Z:\SARITA\multidimArray\try_catch_example\obj\Debug\ResolveAssemblyReference.cache

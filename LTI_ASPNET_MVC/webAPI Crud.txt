@@ -1,0 +1,65 @@
+        public  IEnumerable <Customer> GetCustomers( )
+        {  return _context.customers.ToList();
+
+}
++==================
+  public ActionResult GetCustomer(int id)
+        {
+            var customer =  _context.customers.FirstOrDefaultAsync(customer => customer.CustomerId == id);
+            if (customer == null)
+            { return NotFound(); }
+            return Ok(customer);
+        }
+=================
+ [HttpPost]
+        public ActionResult<Customer> Post(Customer newcustomer)
+        {
+            _context.customers.Add(newcustomer);
+             _context.SaveChangesAsync();
+           // int lastcustomerId = _context.customers.Max(cust=>cust.CustomerId);
+            return CreatedAtAction("GetCustomers", new { id = newcustomer.CustomerId }, newcustomer);
+        }
+========================================================================
+   [HttpPut("{id}")]
+        public IActionResult Put(int id,Customer modifiedcustomer)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest("Not a valid Model");
+            var customer = _context.customers.FirstOrDefault(cust => cust.CustomerId == id);
+            if (customer != null)
+            {
+                customer.Firstname = modifiedcustomer.Firstname;
+                customer.Middlename = modifiedcustomer.Middlename;
+                customer.Lastname = modifiedcustomer.Lastname;
+   customer = modifiedcustomer;
+               
+                _context.SaveChanges();
+            }
+            else
+            {
+                return NotFound();
+            }
+            return Ok();
+
+        }
+
+
+    [HttpPut]
+        [Route("CustomerVerify/{id}")]
+        public IActionResult CustomerVerify(int id)
+        {
+            //if (!ModelState.IsValid)
+            //    return BadRequest("Not a valid Model");
+            var customer = _context.customers.FirstOrDefault(cust => cust.CustomerId == id);
+            if (customer != null)
+            {
+
+                customer.Verified = true;
+               _context.SaveChanges();
+            }
+            else
+            {
+                return NotFound();
+            }
+            return Ok();
+}

@@ -1,0 +1,59 @@
+<p>Structural directives are responsible for the Structure and Layout of the DOM Element.<br>
+It is used to hide or display the things on the DOM.<br>
+ Structural Directives can be easily identified using the ‘*’. <br>
+ Every Structural Directive is preceded by a ‘*’ symbol.<br>
+following are the structural Directives in Angular </p>
+ <ol>
+    <li>*ngIf</li>
+    <li>*ngIf-else:</li>
+    <li>*ngFor</li>
+    <li>*ngSwith</li>
+ </ol>
+ <h1>*ngIf Example</h1>
+ <div *ngIf="false">
+    This text will be hidden
+    <h1>
+      Structural Directive Example
+    </h1>
+  </div>
+  <div *ngIf="true">
+    This text will be displayed
+    <h1>
+     Structural Directive Example
+    </h1>
+  </div>
+  <h2>*ngIf-else:</h2>
+  <div *ngIf="false;else id_selector">
+    This text will be hidden
+    <h1>
+ this text is coming from    Structural Directive 
+      If Part:
+    </h1>
+  </div>
+  <ng-template #id_selector>
+    This text will be displayed
+    <h1>
+     this text is coming from  Structural Directive 
+      Else Part :
+    </h1>
+  </ng-template>
+<hr>
+<p>*ngFor:
+    *ngFor is used to loop through the dynamic lists in the DOM. <br>
+    Simply, it is used to build data presentation lists and tables in HTML DOM.</p>
+  <h3>Followings are my friends</h3>
+
+    <div *ngFor="let friend of friends">
+        <p >  {{friend}} </p>
+       </div>
+      <h3>Followings are my friends with Index </h3>
+      <div *ngFor="let friend of friends;let i=index">
+        <p >i= {{i}}  {{friend}} </p>
+       </div><hr>
+       <p>ngSwitch is used to choose between multiple case statements defined by the expressions inside the *ngSwitchCase and display on the DOM Element according to that.<br>
+         If no expression is matched, the default case DOM Element is displayed. </p>
+         <div [ngSwitch]="number">
+            <div *ngSwitchCase="'one'">One is Displayed</div>  
+            <div *ngSwitchCase="'two'">Two is Displayed</div>  
+            <div *ngSwitchDefault>Default Option is Displayed</div>  
+          </div>

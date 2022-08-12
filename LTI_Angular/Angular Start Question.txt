@@ -1,0 +1,70 @@
+
+dependecy injection  why private 
+inline template  how to write multiline tags ?
+
+npm install -g @angular/cli
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+npm -version
+===========================================================
+npm is two things: first and foremost, it is an online repository 
+for the publishing of open-source Node. js projects; second, 
+it is a command-line utility for interacting with said repository that aids in package installation, 
+version management, and dependency management. A plethora of Node
+=======================================
+When should I use npm?
+NPM is used to manage dependencies for packages. If you were to unpack 
+a framework and use it outside NPM,
+ you would have to do this every time you want to update the framework. 
+===========================================================
+what is NodeJs ? Why to use it ?
+ Node.js, which is a run-time environment that includes everything required to execute a program written in JavaScript.
+
+Node.js is a single-threaded, open-source, cross-platform runtime environment for building fast
+ and scalable server-side and networking applications. It runs on the V8 JavaScript runtime engine,
+ and it uses event-driven,
+ non-blocking I/O architecture, which makes it efficient and suitable for real-time applications.
+===========================================================================
+Install    NodeJs    1  https://nodejs.org/en/
+check version npm -v  o/p 8.1.3
+install Typescript    2 https://www.npmjs.com/package/typescript
+			npm install -g typescript
+Install Angular      3  npm install -g @angular/cli
+install npm     if required npm install
+install Vs Code
+---------------------------------------
+how to create new app 
+ng new appname
+create new module 
+ng g module modulename
+how to create component 
+ng g c comname
+ng g c --skip-tests=true  admin/adminlogin  ( to skip test file spec.ts)
+------------------
+how to create inline template and css
+ng g c admin/adminverify -it -is 
+====================================
+library project
+ng new my-workspace --no-create-application
+cd my-workspace
+ng generate library my-lib
+=======================
+how to publish library
+ng build my-lib
+cd dist/my-lib
+npm publish
+======================
+Using your own library in applications
+You don't have to publish your library to the npm package manager to use it the same workspace, but you do have to build it first.
+
+To use your own library in an application:
+
+Build the library. You cannot use a library before it is built.
+
+content_copy
+ng build my-lib
+In your applications, import from the library by name:
+
+content_copy
+import { myExport } from 'my-lib';
+==================================================
+

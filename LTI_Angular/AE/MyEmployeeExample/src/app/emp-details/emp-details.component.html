@@ -1,0 +1,14 @@
+
+<h1>{{employee.name}}</h1>
+<div class="card">
+    <div class="card-body">
+        <h2 class="card-title" [ngStyle]="{color:'green'}">Name:{{(employee.name)|uppercase}}</h2>
+        <h3 class="card-text" [ngStyle]="{color:'green'}">Age:{{employee.age}} years</h3>
+        <h3 class="card-text" [ngStyle]="{color:'blue'}">Designation:{{employee.designation}}</h3>
+        <h3 class="card-text" [ngStyle]="{color:'blue'}">Salary:{{employee.salary|currency}}</h3>
+        <h3 class="card-text" [ngStyle]="{color:'blue'}">Joining Date:{{employee.joinDate|date:'dd-MMM-yyyy'}}</h3>
+        <h3 class="card-text" [ngStyle]="{color:'blue'}">Marital Status :{{employee.maritalStatus}}</h3>
+        <h3 class="card-text" [ngStyle]="{color:'blue'}">Project Assigned:{{employee.projectAssigned}}</h3>
+         <img class="images" src={{employee.imageUrl}} width="150px" height="200px"  alt={{employee.name}}/>
+    </div>
+</div>

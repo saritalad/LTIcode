@@ -1,0 +1,10 @@
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\bin\Debug\netcoreapp3.1\Library_For_CollectionTest.deps.json
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\bin\Debug\netcoreapp3.1\Library_For_CollectionTest.dll
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\bin\Debug\netcoreapp3.1\Library_For_CollectionTest.pdb
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.AssemblyInfoInputs.cache
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.AssemblyInfo.cs
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.csproj.CoreCompileInputs.cache
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.dll
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.pdb
+E:\LTI\LTI_NUNIT\Library_For_CollectionTest\Library_For_CollectionTest\obj\Debug\netcoreapp3.1\Library_For_CollectionTest.csproj.AssemblyReference.cache

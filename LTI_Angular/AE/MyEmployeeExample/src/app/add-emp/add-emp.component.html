@@ -1,0 +1,78 @@
+<p>add-emp works!</p>
+
+<form #addempfrm="ngForm" (ngSubmit)="onSubmit(addempfrm.value)">
+    <div class="container">
+        <h1>emp Registration</h1>
+        <div class="form-group">
+            <label for="Id">Id</label><br>
+            <input type="text" name="id" class="form-control" [(ngModel)]="emp.id" #id="ngModel">
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="employeeId">employeeId</label><br>
+            <input type="text" name="employeeId" class="form-control" [(ngModel)]="emp.employeeId" #id="ngModel">
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="name">name</label><br>
+            <input #name="ngModel" required minlength="5" maxlength="40" type="text" name="name"
+                class="form-control" [(ngModel)]="emp.name">
+            <div *ngIf="name.touched && name.invalid" class="alert alert-danger">
+                <p *ngIf="name.hasError('required')">name is required</p>
+                <p *ngIf="name.hasError('minlength')">minimum length should be 5</p>
+            </div>
+
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="age">age</label><br>
+            <input type="text" #age="ngModel" name="age" class="form-control" [(ngModel)]="emp.age">
+            <div *ngIf="age.touched && age.invalid" class="alert alert-danger">
+                <p *ngIf="age.hasError('required')">age is required</p>
+                <p *ngIf="age.hasError('minlength')">minimum length should be 2</p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="designation">designation</label><br>
+            <input type="text" #designation="ngModel" required minlength="5"  name="designation" class="form-control" [(ngModel)]="emp.designation">
+            <div *ngIf="designation.touched && designation.invalid" class="alert alert-danger">
+                <p *ngIf="designation.hasError('required')">designation is required</p>
+                <p *ngIf="designation.hasError('minlength')">minimum length should be 3</p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="salary">Salary</label><br>
+            <input required type="text" name="salary" class="form-control" [(ngModel)]="emp.salary" #salary="ngModel" min="10000">
+            <div *ngIf="salary.touched && salary.invalid" class="alert alert-danger">
+                <p *ngIf="salary.hasError('required')">salary required</p>
+                <p *ngIf="salary.hasError('minimum')">Minimum salary should be greater than 10000 </p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="joinDate">Joining Date</label><br>
+            <input type="text" #joinDate="ngModel" name="joinDate" class="form-control" [(ngModel)]="emp.joinDate">
+            <div *ngIf="joinDate.touched && joinDate.invalid" class="alert alert-danger">
+                <p *ngIf="joinDate.hasError('required')">joinDate is required</p>
+                <p *ngIf="joinDate.hasError('minlength')">minimum length should be 11 </p>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="MaritalStatus">Marital Status:</label><br>
+            <select class="form-control" name="marritalStatus" [(ngModel)]="emp.maritalStatus" #maritalStatus="ngModel">
+                <option> select Status</option>
+                <option *ngFor="let m of mstatus" [value]="m">{{m}}</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="projectAssigned">Project Assigned</label><br>
+            <input  type="text" name="projectAssigned" class="form-control" [(ngModel)]="emp.projectAssigned" #projectAssigned="ngModel">
+                </div>
+
+
+        <pre></pre>
+      
+        <button type="submit" class="btn btn-primary" [disabled]="!addempfrm.valid">Submit</button>
+
+
+    </div>
+</form>

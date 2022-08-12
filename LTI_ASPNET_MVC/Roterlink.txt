@@ -1,0 +1,3 @@
+<a routerLink="/details/{{emp.Id}}"  class="btn btn-warning" >
+               <input type="number" #openingBal="ngModel" required min="1000" class="form-control" placeholder="" 
+ name="openingBal" [(ngModel)]="newaccount.balance">

@@ -1,0 +1,14 @@
+D:\C#_LTI\Day7\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+D:\C#_LTI\Day7\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+D:\C#_LTI\Day7\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+D:\C#_LTI\Day7\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+D:\C#_LTI\Day7\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+D:\C#_LTI\Day7\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.AssemblyReference.cache
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+D:\C#_LTI\Day7\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

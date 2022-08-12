@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fYfg5xqnkePY9GOGS9M+LRs5c2B/lvAD9mVrYlQiFE7KRy7zgzPs/OtEEsKJVHo9UiK5H51L0jKGIzs5Z0WsQ==",
+  "success": true,
+  "projectFilePath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_Demo1\\WebApp2\\WebApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

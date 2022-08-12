@@ -1,0 +1,26 @@
+
+<table class="table table-stripped table-hover">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Id</th>
+        <th scope="col">FirstName</th>
+        <th scope="col">LastName</th>
+        <th scope="col">profession</th>
+        <th scope="col">Email</th>
+        <th scope="col"><button class="btn btn-primary" routerLink="/addnew" >Add new</button></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of usersfromservice">
+        <th scope="row">{{user.id}}</th>
+        <td>{{user.id}}</td>
+        <td>{{user.firstname}}</td>
+        <td>{{user.lastname}}</td>
+        <td>{{user.profession}}</td>
+        <td>{{user.email}}</td>
+        <td><a [routerLink]="['edit',user.id]">Edit</a>|                        <a (click)="deleteuser(user.id)"  href="javascript:void()">delete</a></td>
+      </tr>
+          </tbody>
+  </table>
+  

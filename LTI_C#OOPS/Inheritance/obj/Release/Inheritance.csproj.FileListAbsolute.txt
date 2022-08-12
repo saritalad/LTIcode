@@ -1,0 +1,14 @@
+Z:\SARITA\My Console App\Inheritance\bin\Release\Inheritance.exe
+Z:\SARITA\My Console App\Inheritance\bin\Release\Inheritance.pdb
+Z:\SARITA\My Console App\Inheritance\obj\Release\ResolveAssemblyReference.cache
+Z:\SARITA\My Console App\Inheritance\obj\Release\Inheritance.exe
+Z:\SARITA\My Console App\Inheritance\obj\Release\Inheritance.pdb
+Z:\A_Console APP_Programs\My Console App\Inheritance\bin\Release\Inheritance.exe
+Z:\A_Console APP_Programs\My Console App\Inheritance\bin\Release\Inheritance.pdb
+Z:\A_Console APP_Programs\My Console App\Inheritance\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Inheritance\obj\Release\Inheritance.exe
+Z:\A_Console APP_Programs\My Console App\Inheritance\obj\Release\Inheritance.pdb
+D:\A_Console APP_Programs\My Console App\Inheritance\bin\Release\Inheritance.exe
+D:\A_Console APP_Programs\My Console App\Inheritance\bin\Release\Inheritance.pdb
+D:\A_Console APP_Programs\My Console App\Inheritance\obj\Release\Inheritance.exe
+D:\A_Console APP_Programs\My Console App\Inheritance\obj\Release\Inheritance.pdb

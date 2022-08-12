@@ -1,0 +1,10 @@
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\bin\Debug\netcoreapp3.1\TaxCalculatorDemo.deps.json
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\bin\Debug\netcoreapp3.1\TaxCalculatorDemo.dll
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\bin\Debug\netcoreapp3.1\TaxCalculatorDemo.pdb
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.csproj.AssemblyReference.cache
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.AssemblyInfoInputs.cache
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.AssemblyInfo.cs
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.csproj.CoreCompileInputs.cache
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.dll
+E:\NunitTesting_ConsoleApp\TaxCalculatorDemo\obj\Debug\netcoreapp3.1\TaxCalculatorDemo.pdb

@@ -1,0 +1,10 @@
+﻿@model IEnumerable<WebApp1.Models.Employee>
+
+@foreach(var item in Model)
+            {
+    <ul>
+       <li>@item.Id  @item.Name  @item.Department  </li>
+    </ul>
+
+
+            }

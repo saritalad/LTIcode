@@ -1,0 +1,10 @@
+D:\throw\bin\Debug\throw.exe
+D:\throw\bin\Debug\throw.pdb
+D:\throw\obj\Debug\ResolveAssemblyReference.cache
+D:\throw\obj\Debug\throw.exe
+D:\throw\obj\Debug\throw.pdb
+Z:\throw\obj\Debug\throw.exe
+Z:\throw\obj\Debug\throw.pdb
+Z:\throw\bin\Debug\throw.exe
+Z:\throw\bin\Debug\throw.pdb
+Z:\throw\obj\Debug\ResolveAssemblyReference.cache

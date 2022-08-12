@@ -1,0 +1,8 @@
+Assignment 1 alter student table to add column active field,
+2 create table teacher with fields id, name, subject ,  with primary key Id,
+3 alter table student to add column teacherId with foreign key 4 create table product with id (pk) productname, 
+category,price with check constraint 5  alter product table add column quantity with default value, and manifacture date
+ ,===========================================
+create inner join of product and category,2create table parent(Pid,name) 
+Child Table (Id, name, age,ParentId fK) create left out
+ join (add 3 records in parent and 7 records in child table 

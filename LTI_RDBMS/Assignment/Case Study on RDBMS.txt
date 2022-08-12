@@ -1,0 +1,2 @@
+Case study : create appropriate tables for working online on saving account ( user wants to open saving account in bank so  applies online to provides his personal details, and submits documents and his saving account is created , 
+then he does withdraw and deposit transactions,(transaction table) he does fund transfers for that create fund transfer table.

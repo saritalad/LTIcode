@@ -1,0 +1,32 @@
+<table class="table table-stripped table-hover">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">employeeId</th>
+        <th scope="col">Name</th>
+        <th scope="col">Age</th>
+        <th scope="col">Designation</th>
+        <th scope="col">Salary</th>
+        <th scope="col">Joining Date</th>
+        <th scope="col">Marital Status</th>
+        <th scope="col">Project Assigned</th>
+        <th scope="col">Photo Identity</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let emp of employees">
+         <td>{{emp.id}}</td>
+         <td >{{emp.employeeId}}</td>
+         <td>{{emp.name}}</td>
+        <td>{{emp.age}}</td>
+        <td>{{emp.designation}}</td>
+        <td>{{emp.salary}}</td>
+        <td>{{emp.joinDate|date:'dd-MMM-yyyy'}}</td>
+        <td>{{emp.maritalStatus}}</td>
+        <td>{{emp.projectAssigned|mypipe}}</td>
+        <td><img class="images" src={{emp.imageUrl}} alt="{{emp.name}}" width="100px" height="100px"></td>
+       <td><a [routerLink]="['details',emp.id]"   class="btn btn-warning" >details</a></td> 
+      </tr>
+          </tbody>
+  </table>
+  

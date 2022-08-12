@@ -1,0 +1,17 @@
+Z:\ConnectedADO\ConnectedADO\bin\mydebug\ConnectedADO.exe.config
+Z:\ConnectedADO\ConnectedADO\bin\mydebug\mydb.accdb
+Z:\ConnectedADO\ConnectedADO\bin\mydebug\ConnectedADO.exe
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ResolveAssemblyReference.cache
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.AsynchronousOp.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.Form1.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.Form2.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.Form3.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.Form4.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.Form5.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.MARS.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.MDIParent1.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.OLEDBForm.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.Properties.Resources.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.transaction.resources
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.csproj.GenerateResource.Cache
+Z:\ConnectedADO\ConnectedADO\obj\mydebug\ConnectedADO.exe

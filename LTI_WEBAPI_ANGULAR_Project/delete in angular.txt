@@ -1,0 +1,17 @@
+ <a [routerLink]="['/delete/',dept.id]">Delete</a> 
+
+ deleteuser(id: number) {
+    if (confirm("are u sure ? ")) {
+      this._userservice.RemoveUser(id);
+      alert('user deleted');
+      this.getAllUsersFromService();
+    }
+    <a [routerLink]="['edit',user.id]">Edit</a>|<a (click)="deleteuser(user.id)"  href="javascript:void()">delete</a></td>
+
+[16:20] Atul Rathour
+delete(id:Number){
+    // console.log(id);
+    this._userservice.deleteUser(id).subscribe();
+    window.location.reload();
+  }
+

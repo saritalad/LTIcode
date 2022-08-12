@@ -1,0 +1,7 @@
+﻿<h1> Welcome Page</h1>
+<h1>Welcome @TempData["login"]  from  Synergetics</h1>
+
+<a asp-action="Products">Go To Products</a>
+@{ 
+    TempData.Keep();
+}

@@ -1,0 +1,23 @@
+<p>userlist works!</p>
+<table class="table table-stripped table-hover">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">FirstName</th>
+        <th scope="col">LastName</th>
+        <th scope="col">age</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of usersfromservice">
+        
+        <td>{{user.id}}</td>
+        <td>{{user.firstname}}</td>
+        <td>{{user.lastname}}</td>
+        <td>{{user.age}}</td>
+        <td><a [routerLink]="['/edit',user.id]">Edit</a>|<a (click)="deleteuser(user.id)"  href="javascript:void()">delete</a></td>
+      
+          </tr>
+          </tbody>
+  </table>

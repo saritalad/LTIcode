@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YW+QOv69dpIDL1LCrnqacODrCtflWjPpAX6WcMeEUYj+ysv+XwW5lr03iOnrizOsqoSUCwxpwby9UvA+r5NDA==",
+  "success": true,
+  "projectFilePath": "E:\\LTI_MVC\\MVC_Routing_Example\\MVC_Routing_Example\\MVC_Routing_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

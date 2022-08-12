@@ -1,0 +1,11 @@
+Z:\SARITA\My Console App\Sealed_class_example\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Sealed_class_example\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Console APP_Programs\My Console App\Sealed_class_example\bin\Release\Sealed_class_example.exe
+Z:\A_Console APP_Programs\My Console App\Sealed_class_example\bin\Release\Sealed_class_example.pdb
+Z:\A_Console APP_Programs\My Console App\Sealed_class_example\obj\Release\Sealed_class_example.exe
+Z:\A_Console APP_Programs\My Console App\Sealed_class_example\obj\Release\Sealed_class_example.pdb
+D:\A_Console APP_Programs\My Console App\Sealed_class_example\bin\Release\Sealed_class_example.exe
+D:\A_Console APP_Programs\My Console App\Sealed_class_example\bin\Release\Sealed_class_example.pdb
+D:\A_Console APP_Programs\My Console App\Sealed_class_example\obj\Release\Sealed_class_example.exe
+D:\A_Console APP_Programs\My Console App\Sealed_class_example\obj\Release\Sealed_class_example.pdb
+D:\A_Console APP_Programs\My Console App\Sealed_class_example\obj\Release\Sealed_class_example.csprojResolveAssemblyReference.cache

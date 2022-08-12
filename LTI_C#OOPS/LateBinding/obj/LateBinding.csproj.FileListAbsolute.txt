@@ -1,0 +1,2 @@
+I:\SCP26\c#demos\LateBinding\LateBinding\obj\Debug\LateBinding.exe
+I:\SCP26\c#demos\LateBinding\LateBinding\obj\Debug\LateBinding.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\multidimArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\multidimArray\bin\Debug\multidimArray.exe
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\multidimArray\bin\Debug\multidimArray.pdb
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\multidimArray\obj\Debug\multidimArray.exe
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\multidimArray\obj\Debug\multidimArray.pdb
+Z:\SARITA\multidimArray\multidimArray\obj\Debug\multidimArray.exe
+Z:\SARITA\multidimArray\multidimArray\obj\Debug\multidimArray.pdb

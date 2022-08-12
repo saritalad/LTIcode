@@ -1,0 +1,93 @@
+Z:\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe.config
+Z:\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe
+Z:\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.pdb
+Z:\ConnectedADO\ConnectedADO\obj\Release\ResolveAssemblyReference.cache
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.AsynchronousOp.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form1.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form2.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form3.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form4.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form5.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MARS.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MDIParent1.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Properties.Resources.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.transaction.resources
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.csproj.GenerateResource.Cache
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.exe
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.pdb
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.OLEDBForm.resources
+Z:\ConnectedADO\ConnectedADO\bin\Release\mydb.accdb
+Z:\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.NavigateForm.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe.config
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.exe
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.pdb
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\bin\Release\mydb.accdb
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.pdb
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.AsynchronousOp.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form1.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form2.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form3.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form4.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form5.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MARS.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MDIParent1.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.NavigateForm.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.OLEDBForm.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Properties.Resources.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.transaction.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.ExecuteNonQury_Example.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.bulkcopyForm.resources
+Z:\A_Win App Projects\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.BindingSource_Ex.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe.config
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.exe
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.pdb
+Z:\Window Applications\ConnectedADO\ConnectedADO\bin\Release\mydb.accdb
+Z:\Window Applications\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe
+Z:\Window Applications\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.pdb
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ResolveAssemblyReference.cache
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.AsynchronousOp.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.BindingSource_Ex.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.bulkcopyForm.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.DataRelation_Example.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.ExecuteNonQury_Example.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form1.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form2.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form3.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form4.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form5.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MARS.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MDIParent1.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.NavigateForm.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.OLEDBForm.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Properties.Resources.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.transaction.resources
+Z:\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe.config
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.exe
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.pdb
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\bin\Release\mydb.accdb
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.exe
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\bin\Release\ConnectedADO.pdb
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ResolveAssemblyReference.cache
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.AsynchronousOp.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.BindingSource_Ex.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.bulkcopyForm.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.DataRelation_Example.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.ExecuteNonQury_Example.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form1.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form2.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form3.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form4.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form5.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MARS.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.MDIParent1.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.NavigateForm.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.OLEDBForm.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Properties.Resources.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.transaction.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\ConnectedADO.Form6.resources
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\A_Seed\Window Applications\ConnectedADO\ConnectedADO\obj\Release\GenerateResource-ResGen.write.1.tlog

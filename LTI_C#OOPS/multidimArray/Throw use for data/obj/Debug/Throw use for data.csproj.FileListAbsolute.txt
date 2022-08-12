@@ -1,0 +1,5 @@
+Z:\SARITA\multidimArray\Throw use for data\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\multidimArray\Throw use for data\bin\Debug\Throw use for data.exe
+Z:\SARITA\multidimArray\Throw use for data\bin\Debug\Throw use for data.pdb
+Z:\SARITA\multidimArray\Throw use for data\obj\Debug\Throw use for data.exe
+Z:\SARITA\multidimArray\Throw use for data\obj\Debug\Throw use for data.pdb

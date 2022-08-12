@@ -1,0 +1,6 @@
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\C_Sharp_Concepts_Demo\MyMathLiB\bin\Debug\MyMathLiB.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\C_Sharp_Concepts_Demo\MyMathLiB\bin\Debug\MyMathLiB.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\C_Sharp_Concepts_Demo\MyMathLiB\obj\Debug\MyMathLiB.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\C_Sharp_Concepts_Demo\MyMathLiB\obj\Debug\MyMathLiB.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\C_Sharp_Concepts_Demo\MyMathLiB\obj\Debug\MyMathLiB.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\C_Sharp_Concepts_Demo\MyMathLiB\obj\Debug\MyMathLiB.pdb

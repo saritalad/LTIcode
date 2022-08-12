@@ -1,0 +1,9 @@
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\bin\Release\swati wan.exe
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\bin\Release\swati wan.pdb
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\ResolveAssemblyReference.cache
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\swati_wan.Form1.resources
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\swati_wan.Properties.Resources.resources
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\GenerateResource.read.1.tlog
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\GenerateResource.write.1.tlog
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\swati wan.exe
+D:\A_Seed\Window Applications\ConnectedADO\swati wan\obj\x86\Release\swati wan.pdb

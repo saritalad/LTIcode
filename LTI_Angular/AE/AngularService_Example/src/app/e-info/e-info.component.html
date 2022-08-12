@@ -1,0 +1,24 @@
+<p>e-info works!</p>
+<button type="button" name="button" (click)='getInfoFromService1()'>Employee1</button>
+
+<ul class="list-group">
+
+    <li *ngFor = "let info of infoReceived1" class="list-group-info">{{info}}</li>
+
+</ul>
+
+<button type="button" name="button" (click)='getInfoFromService2()'>Employee2</button>
+
+<ul class="list-group">
+
+    <li *ngFor = "let info of infoReceived2" class="list-group-info">{{info}}</li>
+
+</ul>
+
+<button type="button" name="button" (click)='getInfoFromService3()'>Employee3</button>
+
+<ul class="list-group">
+
+    <li *ngFor = "let info of infoReceived3" class="list-group-info">{{info}}</li>
+
+</ul>

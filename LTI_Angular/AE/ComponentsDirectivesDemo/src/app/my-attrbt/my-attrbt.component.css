@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+  
+double {
+    border-width: 5px;
+    border-style: double;
+    Border-color: green
+}
+  
+double2 {
+    border-width: 10px;
+    border-style: double;
+    Border-color: green
+}
+  
+div.double3 {
+    border-width: 15px;
+    border-style: double;
+    Border-color: green
+}

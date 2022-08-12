@@ -1,0 +1,5 @@
+assignments1 create tablebook with bookid, name,auther price date of publication2 
+insert 10 records 3 select records in subject physics ,4 select records sorting  
+on date 5 change table book  to add column category ,6 update all records one by one
+ to enter category,create table category and catId as primary key , alter table book 
+to add catId foreign key,

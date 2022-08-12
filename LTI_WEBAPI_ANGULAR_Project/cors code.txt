@@ -1,0 +1,14 @@
+   services.AddCors(setup =>
+            {
+                setup.AddPolicy("default", options =>
+                {
+                    options.AllowAnyHeader().AllowAnyOrigin().AllowAnyOrigin().AllowAnyMethod();
+                });
+
+            });
+
+  app.UseCors("default");
+==========================
+   var data = _context.Details.FromSqlInterpolated<CustomerDetailsModel>($"dbo.AllCustomerDetails");
+============================================================================================================
+  var data = _context.Details.FromSqlInterpolated<CustomerDetailsModel>($"dbo.CustomerDetails {id}");

@@ -1,0 +1,12 @@
+1 create table categories, Products with common field catid
+2 create view to join them 
+3 copy the join query and paste it in new Procedure
+4 execute procedure
+5 copy all fileds of output of this procedure for use in web API
+6 Open WEB API project create model category,Product 
+7 and ProductCatViewModel=> fields of output of SP_productCat
+8 add DBset for each Model in APPDBContext class
+9 Add Controller with Name Product_CatController
+10 add Namespace using Microsoft.EntityFrameworkCore;
+11 inject APPDbContext context ref in Constructor 
+12 write Get method with call to stored procecedure to retrieve data using joins

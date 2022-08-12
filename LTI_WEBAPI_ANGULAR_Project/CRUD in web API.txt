@@ -1,0 +1,61 @@
+  [HttpPost]
+        public ActionResult Post(Employee newemp)
+        {
+            _context.Employees.Add(newemp);
+            _context.SaveChanges();
+
+
+         //  return Ok();
+           return CreatedAtAction("Get", new { id = newemp.Id }, newemp);
+        }
+==========================
+[HttpPut("{id}")]
+      //  [Route("UpdateEmployee/{id}")]
+        public ActionResult UpdateEmployee(int id,Employee modifiedemp)
+        {
+            var emp = _context.Employees.FirstOrDefault(emp => emp.Id == id);
+            if (emp != null)
+            {
+                emp.Name = modifiedemp.Name;
+                emp.Department = modifiedemp.Department;
+                _context.SaveChanges();
+                  return Ok();
+            }
+            else
+            {
+                        return NotFound();
+
+                    }
+
+        }
+================================================ 
+           [HttpGet("{id}")]
+        public ActionResult Get(int id)
+        {
+            
+            var data= _context.Employees.Where(emp => emp.Id == id);
+            if (data == null)
+                return NotFound();
+            else
+            return Ok(data);
+        }
+===============================================
+
+ [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+            {
+
+            var emp = _context.Employees.FirstOrDefault(em => em.Id == id);
+            if (emp == null)
+                return NotFound();
+            else
+            {
+                _context.Employees.Remove(emp);
+                    _context.SaveChanges();
+                return Ok();
+            }
+
+        }
+
+
+

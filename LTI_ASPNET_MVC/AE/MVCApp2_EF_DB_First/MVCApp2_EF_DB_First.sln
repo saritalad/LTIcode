@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCApp2_EF_DB_First", "MVCApp2_EF_DB_First\MVCApp2_EF_DB_First.csproj", "{5A2371B9-B05B-4936-8916-E409BE82134F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC_APP_EF_DB_First_Approach", "C:\Users\HP\source\repos\MVC_APP_EF_DB_First_Approach\MVC_APP_EF_DB_First_Approach\MVC_APP_EF_DB_First_Approach.csproj", "{2F6A3D95-8336-4746-B61E-B7AEA3B00B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2371B9-B05B-4936-8916-E409BE82134F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2371B9-B05B-4936-8916-E409BE82134F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2371B9-B05B-4936-8916-E409BE82134F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2371B9-B05B-4936-8916-E409BE82134F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6A3D95-8336-4746-B61E-B7AEA3B00B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6A3D95-8336-4746-B61E-B7AEA3B00B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6A3D95-8336-4746-B61E-B7AEA3B00B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6A3D95-8336-4746-B61E-B7AEA3B00B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1009A8C-92CC-4F2F-A2DD-1644E362F3C8}
+	EndGlobalSection
+EndGlobal

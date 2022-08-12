@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\My Console App\Object_Class_Methods\bin\Debug\Object_Class_Methods.exe
+D:\A_Console APP_Programs\My Console App\Object_Class_Methods\bin\Debug\Object_Class_Methods.pdb
+D:\A_Console APP_Programs\My Console App\Object_Class_Methods\obj\Debug\Object_Class_Methods.exe
+D:\A_Console APP_Programs\My Console App\Object_Class_Methods\obj\Debug\Object_Class_Methods.pdb

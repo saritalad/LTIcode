@@ -1,0 +1,2 @@
+"Assignment: 1 create child component with  Snaks  dishes to be served  using 2 objects 1 Veg and 1 nonveg , if i/p variable Veg (boolean ) is true display veg dish else non veg dish.
+2 use @output variable to add name of book to be added in the list of books in appComponent"

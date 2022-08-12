@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "DarkLayoutPage";
+    Layout = "~/Views/Shared/_DarkLayout.cshtml";
+}
+<partial name="_menu" />
+
+<h2>DarkLayoutPage</h2>
+
+Hello CompShop Application. I am in RenderBody section because there is no named section for me.
+
+
+
+<partial name="_StaticPromotionalPage">
+
+     @section Note
+     {
+        I am a RenderSectionArea.
+     }
+
+    @section Footer
+    {
+        <p>&copy; @DateTime.Now.Year - Synergetics</p>
+    }
+
+
+    <h2>Hello world</h2>

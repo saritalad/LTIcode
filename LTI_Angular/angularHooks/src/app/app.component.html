@@ -1,0 +1,7 @@
+
+<button type="button"  (click)="HideList()" >Hide List </button>
+<userlist *ngIf="isListvisible"></userlist>
+<div class="container">
+<input type="text" name="id" #id (keyup)="myfunction(id.value)"  >
+<app-home  [MyInput]="child"> </app-home>
+</div>

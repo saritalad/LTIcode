@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZF5mgYSegtqda6kRd2uSyIzouSDbWcd2b0CtxxeRTtezryRuG1Hii0+9baEnJ40Vd511yFtFH9AjYx6f+YYPw==",
+  "success": true,
+  "projectFilePath": "E:\\NunitTesting_ConsoleApp\\NunitTesting_ConsoleApp\\NunitTesting_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

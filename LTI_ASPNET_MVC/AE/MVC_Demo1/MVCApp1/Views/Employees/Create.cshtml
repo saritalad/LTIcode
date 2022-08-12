@@ -1,0 +1,30 @@
+﻿@model  MVCApp1.Models.Employee
+
+<h1> New Employee </h1>
+<form asp-action="Create">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Department"></label>
+        <select asp-for="Department" asp-items=@ViewBag.dept>
+            <option value="">Choose Department</option>
+        </select>
+    </div>
+    <div>
+        <input type="Submit" value="Submit" />
+    </div>
+    <hr />
+
+    <a asp-action="Index">Back to EmployeeList</a>
+
+
+
+
+
+
+
+
+
+</form>

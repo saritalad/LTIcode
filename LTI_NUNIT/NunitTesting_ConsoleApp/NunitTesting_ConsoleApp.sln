@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUITDEmo", "NUITDEmo\NUITDEmo.csproj", "{B51EC60A-2300-4E19-90A1-5369B4F26E87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NunitDemo.test", "NunitDemo.test\NunitDemo.test.csproj", "{1C1E286C-9411-452F-9B11-D5C147703161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51EC60A-2300-4E19-90A1-5369B4F26E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51EC60A-2300-4E19-90A1-5369B4F26E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51EC60A-2300-4E19-90A1-5369B4F26E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51EC60A-2300-4E19-90A1-5369B4F26E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1E286C-9411-452F-9B11-D5C147703161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1E286C-9411-452F-9B11-D5C147703161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1E286C-9411-452F-9B11-D5C147703161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1E286C-9411-452F-9B11-D5C147703161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85DAC163-26E9-468F-8832-1DE68EC4B3D0}
+	EndGlobalSection
+EndGlobal

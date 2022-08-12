@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tC6+IfDhBAYSteY8dlausELVRDOjZkzqMI2kP0lNh7/c0B+s0aE8r9r8V3/kkfeGSvLYAidmSC+PWk31eI/HgQ==",
+  "success": true,
+  "projectFilePath": "D:\\OnDriveSamiksha\\OneDrive\\Desktop\\TechniMount\\AE\\C_Sharp_Concepts_Demo\\C_Sharp_Concepts_Demo\\C_Sharp_Concepts_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

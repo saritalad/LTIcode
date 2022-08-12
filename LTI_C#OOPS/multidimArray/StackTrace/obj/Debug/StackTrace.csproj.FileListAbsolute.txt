@@ -1,0 +1,5 @@
+Z:\SARITA\multidimArray\StackTrace\bin\Debug\StackTrace.exe
+Z:\SARITA\multidimArray\StackTrace\bin\Debug\StackTrace.pdb
+Z:\SARITA\multidimArray\StackTrace\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\multidimArray\StackTrace\obj\Debug\StackTrace.exe
+Z:\SARITA\multidimArray\StackTrace\obj\Debug\StackTrace.pdb

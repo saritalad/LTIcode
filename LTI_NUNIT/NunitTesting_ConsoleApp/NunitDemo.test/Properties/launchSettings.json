@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "NunitDemo.test": {
+      "commandName": "Snapshot Debugger"
+    }
+  }
+}

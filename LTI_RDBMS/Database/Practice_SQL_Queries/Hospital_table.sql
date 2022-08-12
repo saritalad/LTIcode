@@ -1,0 +1,43 @@
+use myDB_SQL;
+--drop table Patient;
+create table Patient (id int primary key, PatientName varchar(30),Lastname varchar(30),hospital_Code int,Primary_doctor_code int);
+insert into Patient values(1,'Raj','verma',1,1);
+insert into Patient values(2,'Viraj','shahu',01,2);
+insert into Patient values(3,'Raja','yadhav',11,3);
+insert into Patient values(4,'Harry','shah',12,4);
+insert into Patient values(5,'Rani','param',10,1);
+insert into Patient values(6,'Roshini','moon',010,1);
+insert into Patient values(7,'Poonam','chilkhewar',123,21);
+insert into Patient values(8,'Anjali','verma',13,3);
+insert into Patient values(9,'Chavi','gill',21,2);
+insert into Patient values(10,'neha','singh',111,4);
+
+select * from Patient;
+--drop table Doctor;
+create table Doctor(id int primary key,Doctor_name varchar(40),hospital_Depart varchar(30));
+insert into Doctor values (1,'DR.verma','skin');
+insert into Doctor values (2,'DR.sharma','surgenon');
+insert into Doctor values (3,'DR.gill','neurologist');
+insert into Doctor values (4,'DR.Arora','cardiologist');
+insert into Doctor values (5,'DR.verma','radiologist');
+insert into Doctor values (6,'DR.bihari','dermatlogist');
+insert into Doctor values (7,'DR.borkar','oncology');
+insert into Doctor values (8,'DR.titarmare','orthopedics');
+insert into Doctor values (9,'DR.Avad','surgegon');
+insert into Doctor values (10,'DR.gore','dentist');
+select * from Doctor;
+
+--drop table Hospital;
+create table Hospital(id int primary key ,Hospital_name varchar(40));
+insert into Hospital values(1,'Alexs');
+insert into Hospital values(2,'Kunal ');
+insert into Hospital values(3,'Criticare ');
+insert into Hospital values(4,'Kingsway ');
+insert into Hospital values(5,'puri');
+insert into Hospital values(6,'Newlife');
+insert into Hospital values(7,'Krims');
+insert into Hospital values(8,'usha');
+insert into Hospital values(9,'Avadh');
+insert into Hospital values(10,'Care');
+select * from Hospital;
+

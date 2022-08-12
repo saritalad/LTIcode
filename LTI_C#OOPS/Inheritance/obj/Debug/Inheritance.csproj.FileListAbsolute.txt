@@ -1,0 +1,4 @@
+D:\A_Console APP_Programs\My Console App\Inheritance\bin\Debug\Inheritance.exe
+D:\A_Console APP_Programs\My Console App\Inheritance\bin\Debug\Inheritance.pdb
+D:\A_Console APP_Programs\My Console App\Inheritance\obj\Debug\Inheritance.exe
+D:\A_Console APP_Programs\My Console App\Inheritance\obj\Debug\Inheritance.pdb

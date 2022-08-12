@@ -1,0 +1,10 @@
+<h1>This is Parent</h1>
+<h2>{{title}}</h2>
+<hr>
+<ul>
+    <li *ngFor="let item of items">{{item}}</li>
+  </ul>
+<hr>
+<div><app-student [myInputMsg]="myInput" [getPrice]="price" [mystudents]="students" (newItemEvent)="addItem($event)"></app-student></div>
+<app-sizer [(size)]="fontSizePx"></app-sizer>
+<div [style.font-size.px]="fontSizePx">Resizable Text</div>

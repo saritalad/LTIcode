@@ -1,0 +1,17 @@
+//declare object to take leverage of typescript 
+public user={userName:null,age:null} 
+ 
+//api call to get the user name and other info like age 
+user.userName=dataFromServer.userName; 
+user.age=dataFromServer.age; 
+ 
+//to save in locaStorage 
+localStorage.setItem(‘user’,JSON.stringify(user)); 
+ 
+//now on the other component , where you want to get the user name 
+//to get user crdentials from the local storage 
+let userCredentials=JSON.parse(localStorage.getItem(‘user’)); 
+ 
+//declare one more variable on other class where you want to sh 
+public userName:string 
+this.userName:string=userCredentials.userName; 

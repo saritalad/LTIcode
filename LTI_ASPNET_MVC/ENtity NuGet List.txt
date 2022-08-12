@@ -1,0 +1,35 @@
+1Microsoft.EntityFrameworkCore
+2Microsoft.EntityFrameworkCore.Design
+3Microsoft.EntityFrameworkCore.SqlServer
+---------------------------------------------------------------
+4Microsoft.EntityFrameworkCore.SqlServer.Design
+5Microsoft.EntityFrameworkCore.Tools
+6Microsoft.VisualStudio.Web.CodeGeneration.Design
+================================================
+
+step 1 : create database and table 
+
+step 2 : connection string
+ "ConnectionStrings": {
+    "MyConStr": "server=ABCCOMPUTER;database=SynerheticsDB;Trusted_Connection=True;"
+  }
+
+
+step 3 :Add Model classes and DBContext class
+
+step 4 : Startup class
+services.AddDbContext<StudentDbContext>(item =>
+            item.UseSqlServer(Configuration.GetConnectionString("MyConStr")));
+
+step 5: create controller  add contructor and inject dbcontext 
+step 6:  fetch list in index action    then create view 
+step 7:   fetch single record in Details action then create view 
+step 8 :   create   Create Action  then create view 
+step 9 : again create create Action with [HttpPost] attribute 
+step 10 : create Edit Action 
+step 11 : again create Edit Action with [HttpPost] sttribute then create view 
+=========================================
+for mac machine
+for install - dotnet tool install --global dotnet-ef
+
+to add migration - dotnet ef migrations add InitialMigration

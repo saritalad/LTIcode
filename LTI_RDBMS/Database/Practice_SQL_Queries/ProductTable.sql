@@ -1,0 +1,12 @@
+use myDB_SQL;
+--drop table Grocery_Product;
+create table Grocery_Product(ID int primary key identity(1,1),Productname varchar(40),Price decimal,mfd Date,Catid int);
+insert into Grocery_Product values('HappyHappy','45.66','2021-12-8',1);
+insert into Grocery_Product values('Vatika','66.8','2021-11-15',2);
+insert into Grocery_Product values('Walnut oil','250.66','2021-11-23',3);
+insert into Grocery_Product values('Dettol handwash','100.78','2021-09-12',4);
+insert into Grocery_Product values('Rice','1000.34','2021-10-22',5);
+insert into Grocery_Product values('mamaearth','199.9','2021-09-12',6);
+insert into Grocery_Product values('SurfExcel','234.44','2021-11-10',7);
+insert into Grocery_Product values('Green moong','110.3','2021-10-10',8);
+select * from Grocery_Product;

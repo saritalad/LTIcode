@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+    <title>Background Color Change</title>
+<style>
+    .style1{
+        color:chocolate;
+        background-color: darkkhaki;
+    }
+</style>
+</head>
+<body class="style1">
+    <h1>DOM Properties</h1>
+   
+
+<input type="button" value="submit" onclick="changeBackcolor()">
+
+<table border="2" id="tbl" onmousedown="changeTableBackcolor()" >
+<tr><th>A</th><th>B</th></tr>
+<tr><td id="a">2-asa</td><td id="b">60</td></tr>
+<tr><td><input type="button"value="Add" onclick="Addfunction();"  ></td><td id="ans"></td></tr>
+</table>
+  </body>
+<script>
+    function changeBackcolor()
+    {
+     document.body.style.backgroundColor="powderblue";    }
+     function changeTableBackcolor()
+    {
+     document.getElementById("tbl").style.backgroundColor="powderblue";    }
+   // changeBackcolor()
+   function Addfunction()
+   { 
+       a =parseInt(document.getElementById("a").textContent);
+     b=parseInt(document.getElementById("b").textContent);
+     c=a+b;
+    document.getElementById("ans").innerHTML=c;
+   }
+</script>
+</html>

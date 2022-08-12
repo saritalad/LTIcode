@@ -1,0 +1,9 @@
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\bin\Debug\netcoreapp3.1\TestingDemo.deps.json
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\bin\Debug\netcoreapp3.1\TestingDemo.dll
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\bin\Debug\netcoreapp3.1\TestingDemo.pdb
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\obj\Debug\netcoreapp3.1\TestingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\obj\Debug\netcoreapp3.1\TestingDemo.AssemblyInfoInputs.cache
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\obj\Debug\netcoreapp3.1\TestingDemo.AssemblyInfo.cs
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\obj\Debug\netcoreapp3.1\TestingDemo.csproj.CoreCompileInputs.cache
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\obj\Debug\netcoreapp3.1\TestingDemo.dll
+E:\NunitTesting_ConsoleApp\TestingDemo\TestingDemo\obj\Debug\netcoreapp3.1\TestingDemo.pdb

@@ -1,0 +1,35 @@
+﻿@model MVCApp1.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Employee</h4>
+<hr />
+<form asp-action="Create">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Department"></label>
+        <select asp-for="Department" asp-items=@ViewBag.dept>
+            <option value="">Choose Department</option>
+        </select>
+    </div>
+    <div>
+        <input type="Submit" value="Submit" />
+    </div>
+    <hr />
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</form>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+
+

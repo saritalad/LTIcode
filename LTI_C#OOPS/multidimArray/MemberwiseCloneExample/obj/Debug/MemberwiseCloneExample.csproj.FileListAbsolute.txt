@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\MemberwiseCloneExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\MemberwiseCloneExample\bin\Debug\MemberwiseCloneExample.exe
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\MemberwiseCloneExample\bin\Debug\MemberwiseCloneExample.pdb
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\MemberwiseCloneExample\obj\Debug\MemberwiseCloneExample.exe
+C:\Documents and Settings\Ameet\My Documents\Visual Studio 2008\Projects\multidimArray\MemberwiseCloneExample\obj\Debug\MemberwiseCloneExample.pdb
+Z:\SARITA\multidimArray\MemberwiseCloneExample\bin\Debug\MemberwiseCloneExample.exe
+Z:\SARITA\multidimArray\MemberwiseCloneExample\bin\Debug\MemberwiseCloneExample.pdb
+Z:\SARITA\multidimArray\MemberwiseCloneExample\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\multidimArray\MemberwiseCloneExample\obj\Debug\MemberwiseCloneExample.exe
+Z:\SARITA\multidimArray\MemberwiseCloneExample\obj\Debug\MemberwiseCloneExample.pdb

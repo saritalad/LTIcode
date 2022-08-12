@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Model_In_ASPNETCoreMVC.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+
+                @Html.ActionLink("Edit", "Edit", new {  id=item.BookId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.BookId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.BookId })
+                <a asp-action="Delete",asp-route-id="@item.BookId" onclick="return confirm('Are you sure you wish to delete this post?');">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
