@@ -1,0 +1,15 @@
+app.Use(async (context, Next) =>
+            {
+                await context.Response.WriteAsync("This is Ist Request \n");
+
+                await Next();
+                await context.Response.WriteAsync("This is Ist Response \n");
+
+            });
+
+
+ //DefaultFilesOptions defaultFiles = new DefaultFilesOptions();
+            //defaultFiles.DefaultFileNames.Clear();
+            //defaultFiles.DefaultFileNames.Add("Home.html");
+            //app.UseDefaultFiles(defaultFiles);
+            //app.UseStaticFiles();

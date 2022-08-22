@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MVC_INMemoryDB_IMP.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<h3> Total Customers : @ViewBag.totalcustomers</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PAN_Number)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PAN_Number)
+            </td>
+            <td>
+              
+                @Html.ActionLink("Edit", "Edit", new { id=item.CustomerID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.CustomerID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.CustomerID})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

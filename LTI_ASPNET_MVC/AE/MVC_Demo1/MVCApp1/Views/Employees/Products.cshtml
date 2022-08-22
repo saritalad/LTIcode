@@ -1,8 +1,11 @@
-﻿@model MVCApp1.Models.Product
+﻿@*@model MVCApp1.Models.Product
 <h1> Products for you </h1>
 <h1>@TempData["login"]</h1>
 
 <p>@Model.Id</p>
 <p>@Model.ProductName</p>
 <p>@Model.Price</p>
-<p>@Model.Type</p>
+<p>@Model.Type</p>*@
+@{ 
+ var p =  @ViewData["p"] as Product;
+}

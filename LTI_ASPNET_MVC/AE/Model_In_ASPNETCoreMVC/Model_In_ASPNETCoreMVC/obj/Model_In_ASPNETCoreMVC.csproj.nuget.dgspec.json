@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\A_Synergetics\\DotNETArtefacts\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj": {}
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj": {}
   },
   "projects": {
-    "E:\\A_Synergetics\\DotNETArtefacts\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj": {
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\A_Synergetics\\DotNETArtefacts\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj",
+        "projectUniqueName": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj",
         "projectName": "Model_In_ASPNETCoreMVC",
-        "projectPath": "E:\\A_Synergetics\\DotNETArtefacts\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj",
+        "projectPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\A_Synergetics\\DotNETArtefacts\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\obj\\",
+        "outputPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\Model_In_ASPNETCoreMVC\\Model_In_ASPNETCoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

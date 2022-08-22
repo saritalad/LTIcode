@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Routing_Example", "MVC_Routing_Example\MVC_Routing_Example.csproj", "{6109E613-B41A-42E5-845A-0EEC8AE98530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC_Routing_Example", "MVC_Routing_Example\MVC_Routing_Example.csproj", "{6109E613-B41A-42E5-845A-0EEC8AE98530}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCApp1", "..\MVC_Demo1\MVCApp1\MVCApp1.csproj", "{3FE193DD-6680-4066-AF53-760825BABC3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMVC_AttributeRouting_Demo", "..\..\..\..\LTI_Batch1046\MyMVC_AttributeRouting_Demo\MyMVC_AttributeRouting_Demo.csproj", "{0EB77D2E-871E-4C77-9DD8-7726CE94D3F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3FE193DD-6680-4066-AF53-760825BABC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FE193DD-6680-4066-AF53-760825BABC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FE193DD-6680-4066-AF53-760825BABC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB77D2E-871E-4C77-9DD8-7726CE94D3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB77D2E-871E-4C77-9DD8-7726CE94D3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB77D2E-871E-4C77-9DD8-7726CE94D3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB77D2E-871E-4C77-9DD8-7726CE94D3F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

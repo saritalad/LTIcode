@@ -46,7 +46,7 @@ namespace MVC_APP_Validation_ServerSide_Demo
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Employee}/{action=Create}/{id?}");
+                    pattern: "{controller=Student}/{action=Create}/{id?}");
             });
         }
     }

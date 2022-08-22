@@ -1,0 +1,13 @@
+
+            List<SelectListItem> departments = new List<SelectListItem>()
+           {new SelectListItem { Text = "Accounts", Value = "Accounts" },
+            new SelectListItem{ Text="Sales",Value="Sales"},
+             new SelectListItem{Text="IT",Value="IT"},
+            };
+            ViewBag.dept = departments;
+=======================
+         <label asp-for="Department"></label>
+        <select asp-for="Department" asp-items=@ViewBag.dept>
+            <option value="">Choose Department</option>
+        </select>
+------------------------------------------

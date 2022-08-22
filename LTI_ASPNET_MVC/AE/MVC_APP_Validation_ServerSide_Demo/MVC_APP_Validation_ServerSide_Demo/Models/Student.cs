@@ -21,6 +21,7 @@ namespace MVC_APP_Validation_ServerSide_Demo.Models
         [Required(ErrorMessage = "Please enter date of birth")]
         [Display(Name = "Date of Birth")]
         [DataType(DataType.Date)]
+        [CustomDate(ErrorMessage ="Should be less than Today")]
         public DateTime DateofBirth { get; set; }
 
         [Required(ErrorMessage = "Choose batch time")]

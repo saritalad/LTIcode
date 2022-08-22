@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MVCApp_CustomValidation_Demo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,7 +31,7 @@ namespace MVCApp_CustomValidation_Demo.Controllers
         // POST: StudentController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create([Bind("Id,Name,AdmissionDate,DateofBirth")]Student student)
         {
             try
             {

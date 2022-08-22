@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LTI_MVC\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj": {}
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj": {}
   },
   "projects": {
-    "E:\\LTI_MVC\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj": {
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LTI_MVC\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj",
+        "projectUniqueName": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj",
         "projectName": "MVCApp_CustomValidation_Demo",
-        "projectPath": "E:\\LTI_MVC\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj",
+        "projectPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\LTI_MVC\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\obj\\",
+        "outputPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

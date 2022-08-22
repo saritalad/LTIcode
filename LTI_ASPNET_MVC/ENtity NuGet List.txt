@@ -9,7 +9,7 @@
 
 step 1 : create database and table 
 
-step 2 : connection string
+step 2 : connection string:In Appsettings.Json
  "ConnectionStrings": {
     "MyConStr": "server=ABCCOMPUTER;database=SynerheticsDB;Trusted_Connection=True;"
   }

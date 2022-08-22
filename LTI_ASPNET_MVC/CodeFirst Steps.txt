@@ -1,0 +1,12 @@
+step 1 :  install packages for EF
+step 2:  Create Models which are mapped to Tables   
+  Hint :using attribute for validation  use DataAnnotation for Schema 
+step 3: DbContext class and appSetting.json connectionString
+step 4: DI inStratup class  inject DbContext ref 
+Step 5: do databse creating operation :
+
+open PM Console prompt
+1 Enable-Migration
+2 Add-Migration
+3 Update-Database
+===   to create whole database along with all tables 

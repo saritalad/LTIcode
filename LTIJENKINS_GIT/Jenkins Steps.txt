@@ -1,0 +1,65 @@
+steps
+1 install JDK 11 
+2 install Jenkins.War (not MSI)
+3 started jenkins on http://localhost:8080 and entered system given password 
+Note : you can get this password from file Secrets inside .Jenkins folder 
+4   How to install Plugins
+5 go to Mage jenkins go to manage Plugin 
+avaiable section search for Role based Startegy , GitHib  plugin
+click     install without restart
+6 goto Manage Jekins 
+and Go to Confiure Global Security 
+ and Select Role based in Autherization dropdown 
+and MarkUp Formatter => select Safe HTML : to use HTML tags for formatting titles of jobs 
+7 steps to create Job
+step 1 : New Item  on Dashboard 
+       Item   name:  xxxx
+     select Free Style project  OK
+   
+
+        Genral : Description 
+   Build Trigger : Trigger build remotely :  from other tab on browser with token 1234 
+                   Build after other projects 
+                   Build Periodically  ex H/10 ****
+ Source Code Management ( GitHub )  
+from GiT HUB repository path for this select Git from :Source Code Management
+step 2 Build 
+   Add Build Steps :1 Execute Windows Batch Command  for MS windows
+                     2 Execute Shell Command for MAC 
+
+step 3 (optionals) :  Add Post Build Action : meaning after this job build , give name of the next job here 
+which will be chained 
+Applly and Save
+===========================================
+How to create User
+1 From Dashboard :
+Manage Jenkins
+ Goto Manage Users 
+ Left Side : Create User  enter details
+How to assign Roles to these users 
+Goto Manage and Assign Roles :
+ Global Role 
+Add Employee Role 
+and give rights to him
+
+OverAll : read
+View : Create , Read, delete , Tag
+Item Role
+Add Developer
+Add Tester 
+give Rights for Job , Run , View  All Rights 
+Add  Pattern Ex Con.*  for  Developer
+                 test.* for tester 
+Apply and Save
+
+Assign Role to Users
+
+go to Assign Role Menu ( 2 nd Menu under Manage Roles)
+Add User1, user 2 , user3 under employee as a global role 
+Add user1, user2 and user3 under Item Role
+
+give rights for user1 as Developer 
+                user 2 as Tester   
+Apply and Save 
+===============================================
+use CLI  in JEnkin 

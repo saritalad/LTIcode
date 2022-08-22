@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\A_Synergetics\\DotNETArtefacts\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj": {}
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj": {}
   },
   "projects": {
-    "E:\\A_Synergetics\\DotNETArtefacts\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj": {
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\A_Synergetics\\DotNETArtefacts\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj",
+        "projectUniqueName": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj",
         "projectName": "MVC_ViewModel_Demo",
-        "projectPath": "E:\\A_Synergetics\\DotNETArtefacts\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj",
+        "projectPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\A_Synergetics\\DotNETArtefacts\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\obj\\",
+        "outputPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_ViewModel_Demo\\MVC_ViewModel_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

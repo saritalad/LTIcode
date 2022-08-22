@@ -26,7 +26,7 @@ namespace MVCApp1.Controllers
       
 
         [HttpGet]
-        //[Route("Login")]
+        [Route("Login")]
         public ActionResult Login()
         {
 
@@ -60,10 +60,11 @@ namespace MVCApp1.Controllers
         public ActionResult Products()
         {
             Product p1 = new Product()
-
-            {Id=1,ProductName ="Galaxy M33 ",Price=25000, Type="mobile"  }
-                ;
-               return View(p1);
+            
+            {Id=1,ProductName ="Galaxy M33 ",Price=25000, Type="mobile"  };
+            ViewData["p"] = p1;
+                
+               return View();
         }
 
         [HttpGet]

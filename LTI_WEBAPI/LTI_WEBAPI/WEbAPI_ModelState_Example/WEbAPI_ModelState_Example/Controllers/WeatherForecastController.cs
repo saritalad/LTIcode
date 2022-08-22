@@ -16,35 +16,35 @@ namespace WEbAPI_ModelState_Example.Controllers
        
 
         [HttpGet]
-        public ActionResult <string> Get(string id, int? isTest)
+        public ActionResult <string> Get(string id, bool? isTest)
         {
-            //var errors = new List<string>();
+            var errors = new List<string>();
+
+            if (isTest == null)
+            {
+                errors.Add("is Test is required ");
+
+            }
+
+            if (string.IsNullOrEmpty(id))
+            { errors.Add("id is required"); }
+            if (errors.Count > 0)
+
+            { return BadRequest(errors); }
+
+            //else
 
             //if(isTest==null)
             //{
-            //    errors.Add("is Test is required ");
-
+            //    ModelState.AddModelError(nameof(isTest), "istest is required: ");
+            //}
+            //if(string.IsNullOrEmpty(id))
+            //{
+            //    ModelState.AddModelError(nameof(id), "id field is required ");
             //}
 
-            //if (string.IsNullOrEmpty(id))
-            //{ errors.Add("id is required"); }
-            //if (errors.Count > 0)
-
-            //{ return BadRequest(errors); }
-           
-            //else
-
-            if(isTest==null)
-            {
-                ModelState.AddModelError(nameof(isTest), "istest is required number ");
-            }
-            if(string.IsNullOrEmpty(id))
-            {
-                ModelState.AddModelError(nameof(id), "id field is required ");
-            }
-
-            if (!ModelState.IsValid)
-                return BadRequest(ModelState);
+            //if (!ModelState.IsValid)
+            //    return BadRequest(ModelState);
             else
 
             return $"Id  :{id} Istest :{isTest}";

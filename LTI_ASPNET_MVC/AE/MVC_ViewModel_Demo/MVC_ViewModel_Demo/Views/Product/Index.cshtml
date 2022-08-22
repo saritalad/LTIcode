@@ -1,0 +1,12 @@
+﻿@model MVC_ViewModel_Demo.Viewmodels.CategoryProductViewModel
+<p>
+    @Model.category.Catname
+</p>
+<p>
+  @foreach(var item in Model.category.products)
+            {
+                <ul>
+                    <li>@item.Id    @item.ProductName @item.Price       </li>
+                </ul>
+            }
+</p>

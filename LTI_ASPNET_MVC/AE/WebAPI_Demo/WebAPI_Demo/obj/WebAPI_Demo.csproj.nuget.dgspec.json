@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LTI_MVC\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj": {}
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj": {}
   },
   "projects": {
-    "E:\\LTI_MVC\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj": {
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LTI_MVC\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj",
+        "projectUniqueName": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj",
         "projectName": "WebAPI_Demo",
-        "projectPath": "E:\\LTI_MVC\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj",
+        "projectPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\WebAPI_Demo\\WebAPI_Demo\\WebAPI_Demo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\LTI_MVC\\WebAPI_Demo\\WebAPI_Demo\\obj\\",
+        "outputPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\WebAPI_Demo\\WebAPI_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

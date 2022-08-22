@@ -13,6 +13,7 @@ namespace MVC_APP_Validation_ServerSide_Demo.Models
         public int Id { get; set; }
         [Required(ErrorMessage = "Name is Compulsory")]
         public string Name { get; set; }
+        [Required(ErrorMessage ="Please enter salary")]
         [Range(10000, 90000, ErrorMessage = "Salary between 10000 and 90000")]
         public int? Salary { get; set; }
         [Display(Name = "Department")]
@@ -23,8 +24,7 @@ namespace MVC_APP_Validation_ServerSide_Demo.Models
         [DobCheck(ErrorMessage = "To Join Lnt You must be 21 years of Age")]
         public DateTime? Dob { get; set; }
         [DataType(DataType.EmailAddress)]
-        [Remote("CheckEmail", "Emp", ErrorMessage = "Duplicate Email")]
-        public string Email { get; set; }
+               public string Email { get; set; }
 
         
     }

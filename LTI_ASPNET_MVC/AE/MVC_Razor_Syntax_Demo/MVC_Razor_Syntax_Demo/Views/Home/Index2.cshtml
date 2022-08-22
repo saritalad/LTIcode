@@ -1,0 +1,32 @@
+﻿<h1>Razor Syntax : working with objects:</h1>
+<h2> If else statement</h2>
+@{
+    var txt = " ";
+    if (DateTime.Now.Hour > 12)
+        txt = "Good Evening";
+    else
+        txt = "Good Morning";
+}
+<p>
+
+    Hello ! @txt
+</p>
+
+<h2> For Loop</h2>
+@for (var i = 10; i < 21; i++)
+{<p>Line @i</p>}
+@{ 
+    string[] members = { "bill", "Gill", "Mill", "Jill", "Till" };
+
+}
+<p><ul>
+    @foreach (var person in members)
+    {
+
+        <li>
+            @person
+        </li>
+
+    }
+</ul>
+</p>

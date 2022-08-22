@@ -69,6 +69,12 @@ namespace MVC_Routing_Example
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                    name: "emp",
+                    pattern: "{action=Index}/{controller=Employee}/{id?}");
+            });
         }
     }
 }

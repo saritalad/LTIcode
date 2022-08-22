@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lr4T5QUD3G9SKF++R4wrOfKkesjujHgnwiU4b/ys5msS8Fakgdv6TxtEoHrB9Rk/+dYQjxz7CY41ZR1sxGWFlw==",
+  "dgSpecHash": "Joc5a7Zv8UmcVaBqoLNtVD5YIqG2EaeRLtM7mrrkZvSv9miZQXerjdcIo6UPI/74AhmHLL9OhY53OZILICjKbw==",
   "success": true,
-  "projectFilePath": "E:\\LTI_MVC\\MVC_APP_CRUD_Code_First_Example\\MVC_APP_CRUD_Code_First_Example\\MVC_APP_CRUD_Code_First_Example.csproj",
+  "projectFilePath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_APP_CRUD_Code_First_Example\\MVC_APP_CRUD_Code_First_Example\\MVC_APP_CRUD_Code_First_Example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

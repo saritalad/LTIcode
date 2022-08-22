@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LTI_MVC\\MVC_Routing_Example\\MVC_Routing_Example\\MVC_Routing_Example.csproj",
+      "projectUniqueName": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_Routing_Example\\MVC_Routing_Example\\MVC_Routing_Example.csproj",
       "projectName": "MVC_Routing_Example",
-      "projectPath": "E:\\LTI_MVC\\MVC_Routing_Example\\MVC_Routing_Example\\MVC_Routing_Example.csproj",
+      "projectPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_Routing_Example\\MVC_Routing_Example\\MVC_Routing_Example.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\LTI_MVC\\MVC_Routing_Example\\MVC_Routing_Example\\obj\\",
+      "outputPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_Routing_Example\\MVC_Routing_Example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
