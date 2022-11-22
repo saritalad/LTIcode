@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQ_Opearors_Group_Demo/1.0.0": {
+        "runtime": {
+          "LINQ_Opearors_Group_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_Opearors_Group_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

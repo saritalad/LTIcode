@@ -18,7 +18,7 @@ step 2 : connection string:In Appsettings.Json
 step 3 :Add Model classes and DBContext class
 
 step 4 : Startup class
-services.AddDbContext<StudentDbContext>(item =>
+services.AddDbContext<AppDbContext>(item =>
             item.UseSqlServer(Configuration.GetConnectionString("MyConStr")));
 
 step 5: create controller  add contructor and inject dbcontext 

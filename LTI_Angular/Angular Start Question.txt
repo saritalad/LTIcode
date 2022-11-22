@@ -7,7 +7,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 npm -version
 ===========================================================
 npm is two things: first and foremost, it is an online repository 
-for the publishing of open-source Node. js projects; second, 
+for the publishing of open-source Node.js projects; second, 
 it is a command-line utility for interacting with said repository that aids in package installation, 
 version management, and dependency management. A plethora of Node
 =======================================

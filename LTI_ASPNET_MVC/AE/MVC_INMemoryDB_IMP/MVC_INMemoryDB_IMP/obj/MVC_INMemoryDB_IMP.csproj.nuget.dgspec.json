@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NET_Core_All\\FSD_Training\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj": {}
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj": {}
   },
   "projects": {
-    "E:\\NET_Core_All\\FSD_Training\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj": {
+    "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NET_Core_All\\FSD_Training\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj",
+        "projectUniqueName": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj",
         "projectName": "MVC_INMemoryDB_IMP",
-        "projectPath": "E:\\NET_Core_All\\FSD_Training\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj",
+        "projectPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\NET_Core_All\\FSD_Training\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\obj\\",
+        "outputPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_INMemoryDB_IMP\\MVC_INMemoryDB_IMP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

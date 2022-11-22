@@ -16,11 +16,10 @@
     <!-- Left Sidebar -->
     <nav>
         <h3>Navigation</h3>
-        @Html.ActionLink("About", "About");<br />
-        @Html.ActionLink("Contact", "Contact");<br />
-        @Html.ActionLink("Enquiry", "Enquiry");<br />
-        @Html.ActionLink("Home", "Home");<br />
-        @Html.ActionLink("Purchase", "Purchase");<br />
+        @Html.ActionLink("About", "About","Home");<br />
+        @Html.ActionLink("Contact", "Contact","Home");<br />
+        @Html.ActionLink("Enquiry", "Enquiry","Home");<br />
+      
     </nav>
     <!-- End of Left Sidebar -->
     <!-- Content Body -->
@@ -34,7 +33,7 @@
     <!-- End of Content Body -->
     <!-- Footer -->
     <footer>
-        <h4>I am Footer.</h4>
+        <h4>I am Footer@copyRights http://www.Synergetics.com</h4>
         <div style="background-color:red; color:aliceblue">@RenderSection("Footer", false)</div>
     </footer>
     @RenderSection("Scripts", required: false)

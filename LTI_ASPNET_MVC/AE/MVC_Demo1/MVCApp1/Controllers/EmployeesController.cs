@@ -36,7 +36,7 @@ namespace MVCApp1.Controllers
 
 
         [HttpPost]
-
+        
         public ActionResult LogIn(Login user)
         {
 
@@ -52,6 +52,7 @@ namespace MVCApp1.Controllers
             }
            
         }
+        [Route("~/Welcome")]
         public ActionResult Welcome()
         {
             return View();

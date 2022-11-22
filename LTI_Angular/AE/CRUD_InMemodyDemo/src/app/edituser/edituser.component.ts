@@ -59,10 +59,6 @@ export class EdituserComponent implements OnInit {
     // return this.userForm.get('firstname');
     return this.userForm.controls['profession'];
   }
-
-
-
-
   onSubmit() {
    this._userservice.updateUser(this.userForm.value);
    this.router.navigate(['/userlist']);

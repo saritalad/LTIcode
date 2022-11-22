@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwmQG6eXqig0fD22GTNdtg7AC8EukivMiqaa1mr74b9wT0CaCvlT3LMXH4KPqa3XWT8mNJO/QHP3T2ly7Evxgw==",
+  "success": true,
+  "projectFilePath": "E:\\LTI\\LTI_C#OOPS\\LINQ_Opearors_Group_Demo\\LINQ_Opearors_Group_Demo\\LINQ_Opearors_Group_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

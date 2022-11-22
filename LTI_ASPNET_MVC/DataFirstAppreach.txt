@@ -1,0 +1,15 @@
+step 1 :  install packages for EF Entity Framework 
+step 2:  Create Models which are mapped to Tables   
+  Hint :using attribute for validation  use DataAnnotation for Schema 
+step 3: DbContext class(inside Models Folder) and write connectionString inside appSetting.json 
+step 4: DI in Stratup class  inject DbContext ref 
+step 5 : all actions in controller and views  
+================
+nuget packages required are
+1Microsoft.EntityFrameworkCore
+2Microsoft.EntityFrameworkCore.Design
+3Microsoft.EntityFrameworkCore.SqlServer
+
+
+======================================================
+

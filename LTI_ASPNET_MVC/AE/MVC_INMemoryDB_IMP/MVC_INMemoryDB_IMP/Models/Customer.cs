@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MVC_INMemoryDB_IMP.Models
 {
     public class Customer
-    {[Key]
+    {   [Key]
         public int CustomerID { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }

@@ -1,0 +1,14 @@
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.AssemblyInfoInputs.cache
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.AssemblyInfo.cs
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.csproj.CoreCompileInputs.cache
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\bin\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.exe
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\bin\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.deps.json
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\bin\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.runtimeconfig.json
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\bin\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.runtimeconfig.dev.json
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\bin\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.dll
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\bin\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.pdb
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.dll
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.pdb
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.genruntimeconfig.cache
+E:\LTI\LTI_C#OOPS\LINQ_Opearors_Group_Demo\LINQ_Opearors_Group_Demo\obj\Debug\netcoreapp3.1\LINQ_Opearors_Group_Demo.csproj.AssemblyReference.cache
