@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestFulWbAPI_Product", "RestFulWbAPI_Product.csproj", "{F9B3F9D9-4625-4C7F-BAA2-A9C0A4886BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Consume_ProductAPI", "..\MVC_Consume_ProductAPI\MVC_Consume_ProductAPI.csproj", "{87AF225D-D52B-44C8-B245-BEC80AB13E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B3F9D9-4625-4C7F-BAA2-A9C0A4886BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B3F9D9-4625-4C7F-BAA2-A9C0A4886BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B3F9D9-4625-4C7F-BAA2-A9C0A4886BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B3F9D9-4625-4C7F-BAA2-A9C0A4886BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AF225D-D52B-44C8-B245-BEC80AB13E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AF225D-D52B-44C8-B245-BEC80AB13E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AF225D-D52B-44C8-B245-BEC80AB13E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AF225D-D52B-44C8-B245-BEC80AB13E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0689491F-6553-4D3D-8E6D-0531B55B919B}
+	EndGlobalSection
+EndGlobal
