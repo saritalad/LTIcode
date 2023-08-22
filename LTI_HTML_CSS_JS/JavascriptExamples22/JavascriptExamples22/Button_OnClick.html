@@ -1,7 +1,38 @@
 <!DOCTYPE html>
 <html>
-    <body>
-        <p id="demo">Hello</p>
-        <button type="button" onclick='document.getElementById("demo").innerHTML = "Welcome Home!!"'>Home</button>
-    </body>
+<head>
+    <script>
+      function  myfunction()
+        {
+           
+            if (document.getElementById('male').checked == true)
+
+                alert("male");
+            else
+                alert("female");
+
+        }
+
+
+
+    </script>
+</head>
+
+
+
+<body>
+    <p id="demo">Hello</p>
+    <form name="f1">
+        <table>
+            <tr>
+                <td>Gender<input type="radio" id="male" name="gender" value="male" />Male</td>
+                <td>Gender<input type="radio" id="female" name="gender" value="female" required />Female</td>
+            </tr>
+        <tr><td>
+    <button type="button" onclick='document.getElementById("demo").innerHTML = "Welcome Home!!"'>Home</button>
+    <button type="button" onclick='myfunction()'>gender</button>
+
+</td></tr></table>
+            </form>
+</body>
 </html>

@@ -1,1 +1,4 @@
-Assignment 1  given table in HTML  find sum and  multiplication in 3rd column using javascript function 2 Given Registration form design Validate using Javascript, 3 write javascript code to change backgroud color  of body .4 write a form to enter items of grossary , price and quantity  after selection one item show total bill as alert
+Assignment 1  given table in HTML  find sum and  multiplication in 3rd column using javascript function 
+2 Given Registration form design Validate using Javascript, 
+3 write javascript code to change backgroud color  of body .
+4 write a form to enter items of grossary , price and quantity  after selection one item show total bill as alert

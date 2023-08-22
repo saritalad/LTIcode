@@ -1,0 +1,8 @@
+Create Menu driven Program to Run a computer institute 
+with following Modules
+1 Student
+2 Course
+3 Teacher
+4 Batch
+5 Fees 
+Hint : Use ADO.Net woth MS SQl Server for Database Connectivity

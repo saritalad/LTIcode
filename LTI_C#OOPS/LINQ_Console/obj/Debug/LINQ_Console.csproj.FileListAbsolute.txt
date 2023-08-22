@@ -5,3 +5,10 @@ F:\D Drive\Chandra\LINQ_Example\LINQ_Console\obj\Debug\LINQ_Console.csproj.Assem
 F:\D Drive\Chandra\LINQ_Example\LINQ_Console\obj\Debug\LINQ_Console.csproj.CoreCompileInputs.cache
 F:\D Drive\Chandra\LINQ_Example\LINQ_Console\obj\Debug\LINQ_Console.exe
 F:\D Drive\Chandra\LINQ_Example\LINQ_Console\obj\Debug\LINQ_Console.pdb
+E:\LTI\LTI_C#OOPS\LINQ_Console\bin\Debug\LINQ_Console.exe.config
+E:\LTI\LTI_C#OOPS\LINQ_Console\bin\Debug\LINQ_Console.exe
+E:\LTI\LTI_C#OOPS\LINQ_Console\bin\Debug\LINQ_Console.pdb
+E:\LTI\LTI_C#OOPS\LINQ_Console\obj\Debug\LINQ_Console.csprojAssemblyReference.cache
+E:\LTI\LTI_C#OOPS\LINQ_Console\obj\Debug\LINQ_Console.csproj.CoreCompileInputs.cache
+E:\LTI\LTI_C#OOPS\LINQ_Console\obj\Debug\LINQ_Console.exe
+E:\LTI\LTI_C#OOPS\LINQ_Console\obj\Debug\LINQ_Console.pdb

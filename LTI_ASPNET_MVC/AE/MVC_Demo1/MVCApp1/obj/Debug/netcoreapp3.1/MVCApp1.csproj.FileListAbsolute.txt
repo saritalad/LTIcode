@@ -235,3 +235,10 @@ E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\obj\Debug\netcoreapp3.1\MVCApp1.dll
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\obj\Debug\netcoreapp3.1\MVCApp1.pdb
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\obj\Debug\netcoreapp3.1\MVCApp1.genruntimeconfig.cache
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Product.cshtml.g.cs
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\nunit.engine.dll
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll

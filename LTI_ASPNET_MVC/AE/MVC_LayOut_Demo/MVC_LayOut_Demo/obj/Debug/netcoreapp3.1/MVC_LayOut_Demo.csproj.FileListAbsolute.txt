@@ -244,3 +244,4 @@ E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Debug\netcoreapp3.1
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Debug\netcoreapp3.1\MVC_LayOut_Demo.pdb
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Debug\netcoreapp3.1\MVC_LayOut_Demo.genruntimeconfig.cache
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PinkLaout.cshtml.g.cs
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\BlueNote.cshtml.g.cs

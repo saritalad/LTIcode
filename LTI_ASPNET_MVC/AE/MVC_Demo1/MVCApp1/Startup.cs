@@ -43,21 +43,21 @@ public class Startup
         app.UseRouting();
 
         app.UseAuthorization();
-        app.UseEndpoints(endpoints =>
-        {
-            endpoints.MapGet("/", async context =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
-        });
-        app.UseEndpoints(endpoints =>
-        {// Attribute Contraints  alpha for  aphabet 
-            endpoints.MapGet("/hello/{name:alpha}", async context =>
-            {
-                var name = context.Request.RouteValues["name"];
-                await context.Response.WriteAsync($"Hello {name}!");
-            });
-        });
+        //app.UseEndpoints(endpoints =>
+        //{
+        //    endpoints.MapGet("/", async context =>
+        //    {
+        //        await context.Response.WriteAsync("Hello World!");
+        //    });
+        //});
+        //app.UseEndpoints(endpoints =>
+        //{// Attribute Contraints  alpha for  aphabet 
+        //    endpoints.MapGet("/hello/{name:alpha}", async context =>
+        //    {
+        //        var name = context.Request.RouteValues["name"];
+        //        await context.Response.WriteAsync($"Hello {name}!");
+        //    });
+        //});
 
 
 

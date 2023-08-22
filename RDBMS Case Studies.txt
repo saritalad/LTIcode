@@ -1,0 +1,4 @@
+1 Create Database schema for Medical shop 
+2 Create Database schema for Computer Institute Student Admissions and Batches for various courses 
+3 Create Database Schema for Online Books Library 
+4 Create Database Schems For online Blood Banks and Donation Center

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXceptionPage_Demo", "EXceptionPage_Demo\EXceptionPage_Demo.csproj", "{E7519D2F-E370-44A6-AACE-C5E6C816DEFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExCeptionHandling_In_ASPNETCoreMVC_Demo", "..\..\..\..\A_Synergetics\DotNETArtefacts\ExCeptionHandling_In_ASPNETCoreMVC_Demo\ExCeptionHandling_In_ASPNETCoreMVC_Demo\ExCeptionHandling_In_ASPNETCoreMVC_Demo.csproj", "{6B6AD4DE-BF3F-4458-A4BD-9A1BF26AA309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7519D2F-E370-44A6-AACE-C5E6C816DEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7519D2F-E370-44A6-AACE-C5E6C816DEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7519D2F-E370-44A6-AACE-C5E6C816DEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7519D2F-E370-44A6-AACE-C5E6C816DEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6AD4DE-BF3F-4458-A4BD-9A1BF26AA309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6AD4DE-BF3F-4458-A4BD-9A1BF26AA309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6AD4DE-BF3F-4458-A4BD-9A1BF26AA309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6AD4DE-BF3F-4458-A4BD-9A1BF26AA309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D026E9A7-2943-4871-B09D-5C38150A964D}
+	EndGlobalSection
+EndGlobal

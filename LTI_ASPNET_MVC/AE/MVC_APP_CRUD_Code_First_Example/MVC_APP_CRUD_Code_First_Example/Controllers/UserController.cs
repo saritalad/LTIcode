@@ -36,10 +36,11 @@ namespace MVC_APP_CRUD_Code_First_Example.Controllers
         // POST: UserController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(User newuser)
         {
             try
-            {
+            { _context.Add(newuser);
+                _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
             catch

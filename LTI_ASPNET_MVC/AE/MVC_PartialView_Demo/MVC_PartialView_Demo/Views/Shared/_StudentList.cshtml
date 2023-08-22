@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MVC_PartialView_Demo.Models.Student>
+<table class="table">
+    <tr>
+        <th>Student Name</th>
+        <th>StudentDOB</th>
+        <th>StudentPhoneNum</th>
+        <th>StudentPhoneNum</th>
+
+    </tr>
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => student.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => student.StudentDOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => student.StudentPhoneNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => student.studentAddress)
+            </td>
+        </tr>
+    }
+</table>

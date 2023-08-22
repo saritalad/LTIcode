@@ -3,17 +3,35 @@
 <head>
     <meta charset="utf-8" />
     <title>Register</title>
+    <style>
+        div {
+            text-align: center;
+            text-decoration: double;
+            background-color: lightgreen;
+            width: 300px;
+            border: 15px solid green;
+            padding: 120px;
+            margin: 10px;
+        }
+    </style>
     <script>
         var mobile = document.getElementById("mobile");
         var studentname = document.getElementById("studentname");
+        var Lastname = document.getElementById("lastname");
         submitOK = "true";
         function myFunction() {
             var n = f1.studentname.value;
             var m = f1.mobile.value;
+            var n2 = f1.lastname.value;
             if (n.length < 2 || n.length > 20) {
-               
+
                 alert("Name length should be more than 2 and less than 21 charaters");
                 n.focus();
+                return false;
+            }
+            if (n2.length < 2 || n2.length > 30) {
+                alert("LastName length should be more than 2 and less than 31 charaters");
+                n2.focus();
                 return false;
             }
             if (!m.match(/^[1-9][0-9]{9}$/)) {
@@ -22,7 +40,7 @@
                 return false;
             }
 
-           alert("Name " + document.getElementById("studentname").value);
+            alert("Name " + document.getElementById("studentname").value);
             alert(n.length);
             document.getElementById("result").innerHTML = n + " " + m;
         }
@@ -31,24 +49,26 @@
 <body>
     <h2> For O/p data on Element document.getElementById("idname").innerHTML</h2>
     <h2>for retrieving value in javascript document.getElementById("idname").value </h2>
-    <form name="f1">
-                <table border="1">
-            <tr>
-                <td>Name:</td>
-                <td><input type="text" id="studentname" name="studentname" required /></td>
+    <div>
+        <form name="f1">
+            <table border="1"><caption>Student Details</caption>
+                              <tr>
+                                  <td>Name:</td>
+                                  <td><input type="text" id="studentname" name="studentname" required /></td>
+                                  <td><input type="text" id="lastname" name="lastname" required /></td>
+                              </tr>
+                <tr>
+                    <td>Mobile No:</td>
+                    <td><input type="number" id="mobile" name="mobile" /></td>
+                    <td colspan="2"><button type="button" onclick="myFunction()">Submit</button></td>
                 </tr>
-            <tr>
-                <td>Mobile No:</td>
-                <td><input type="number" id="mobile" name="mobile" /></td>
-                <td colspan="2"><button type="button"  onclick="myFunction()">Submit</button></td>
-            </tr>
 
-        </table>
+            </table>
 
 
-        <h1 id="result"></h1>
+            <h1 id="result"></h1>
 
-    </form>
-
+        </form>
+    </div>
 </body>
 </html>

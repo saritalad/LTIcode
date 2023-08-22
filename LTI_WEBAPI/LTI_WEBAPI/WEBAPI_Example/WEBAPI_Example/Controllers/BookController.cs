@@ -25,6 +25,18 @@ namespace WEBAPI_Example.Controllers
             return books;
 
         }
+       [ HttpGet("{id}")]
+      // [Route("GetbyId/{id}")]
+        public IActionResult GetbyId(int id)
+        {
+            var book = books.FirstOrDefault(b => b.BookId == id);
+            return Ok(book);
+
+        }
+      
+
+
+
 
 
     }

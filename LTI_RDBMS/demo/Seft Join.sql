@@ -1,4 +1,4 @@
---The following SQL statement matches customers that are from the same cit
+--The following SQL statement matches customers that are from the same city
 -- self join
 
 SELECT A.contactName AS CustomerName1, B.contactName AS CustomerName2, A.City

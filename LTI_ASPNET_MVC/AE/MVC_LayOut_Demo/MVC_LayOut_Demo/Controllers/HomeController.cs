@@ -47,12 +47,7 @@ namespace MVC_LayOut_Demo.Controllers
             return View();
 
         }
-          public ActionResult WelcomeHome()
-        {
-
-            return View();
-        }
-
+       
 
 
     }

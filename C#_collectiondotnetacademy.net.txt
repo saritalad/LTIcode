@@ -1,0 +1,15 @@
+1Please create a new dictionary, where the key type is a string and the value type is an int. This dictionary should contain no values.
+2Please add a new value, the key of which is your name, and the value of which is your age. Do this using the Add method.
+
+Next, add another value to the dictionary using the index notation. This time, use a different name and a different age.
+
+Lastly, read the first item you added to the dictionary, and write it to the console using Console.WriteLine`.
+3Please remove the item with the key 'Han' from the dictionary.
+4Please remove the item with the key 'Han' from the dictionary.
+5Please create a new queue of type int, named primes.
+6Please add the first 5 primes to the queue.
+7Please loop through the queue using a while loop, and add the next item to the total variable. After the loop, please write the total to the console using Console.WriteLine.
+8Please create a new stack of type string, named films.
+9Please add the original 3 Star Wars film names to the stack.
+10 e loop through the stack using a do-while loop, and remove each item from it.
+ Write each item to the Console using WriteLine.

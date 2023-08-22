@@ -1,0 +1,164 @@
+How to bind a model to a partial view in ASP.NET MVC?
+We created the StudentList view in the view section, which displays all the student information as shown below.
+
+
+binding model data to partial view
+Now, instead of creating a view for the student list, we can create a partial view for it. This can be useful in many other views, because it just displays students information. For example, we can use the same partial view, to list all the students of a particular standard or students of the same age, etc. We can create a partial view for the following parts:
+
+
+binding model data to partial view
+To create a partial view, right click on Shared folder -> select Add -> click on View..
+
+
+Add partial view
+ Note:
+If the partial view will be shared with multiple views, then create it in the Shared folder; otherwise you can create the partial view in the same folder where it is going to be used.
+In the Add View dialogue, enter the view name. Select the scaffolding template list because we are going to create a view to display information for multiple students. Select the Student model class, check the "Create as a partial view" checkbox and click Add.
+
+
+binding model data to partial view
+This will create _StudentList.cshtml as shown below.
+
+_StudentList.cshtml Partial view:
+This will create _StudentList.cshtml as shown below.
+
+_StudentList.cshtml Partial view: Copy
+@model IEnumerable<MVC_BasicTutorials.Models.Student>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.StudentId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.StudentId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.StudentId })
+        </td>
+    </tr>
+}
+
+</table>
+Now, we can render the _StudentList partial view by using the Html.Partial(), Html.RenderPartial() or Html.RenderAction() method.
+
+Let's use this _StudentList partial view in the Index view.
+
+The Index() action method in Studentcontroller passes IList<student> as shown below.
+
+Example: Student Controller Copy
+public class StudentController : Controller
+{
+    IList<Student> studentList;
+
+    public StudentController()
+    {
+        students = new List<Student>{ 
+                        new Student() { StudentId = 1, StudentName = "John", Age = 18 } ,
+                        new Student() { StudentId = 2, StudentName = "Steve",  Age = 21 } ,
+                        new Student() { StudentId = 3, StudentName = "Bill",  Age = 25 } ,
+                        new Student() { StudentId = 4, StudentName = "Ram" , Age = 20 } ,
+                        new Student() { StudentId = 5, StudentName = "Ron" , Age = 31 } ,
+                        new Student() { StudentId = 6, StudentName = "Chris",  Age = 17 } ,
+                        new Student() { StudentId = 7, StudentName = "Rob",Age = 19  } ,
+                    };
+    }
+    // GET: Student
+    public ActionResult Index()
+    {
+            
+        return View(students);
+    }
+}
+
+
+Partial Method
+The following Index.cshtml view renders the _StudentList partial view using the Html.Partial() method.
+
+Example: Render Partial View Copy
+@model IEnumerable<MVC_BasicTutorials.Models.Student>
+
+<h3>Student List</h3>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@Html.Partial("_StudentList", Model)
+
+As you can see in the above code, the first parameter of the Partial() method specifies the partial view name and the second parameter is the model object.
+
+RenderPartial Method
+The following Index.cshtml view renders the _StudentList partial view using the Html.RenderPartial() method.
+
+Example: RenderPartial() Copy
+@model IEnumerable<MVC_BasicTutorials.Models.Student>
+
+<h3>Student List</h3>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@{
+    Html.RenderPartial("_StudentList", Model);
+}
+RenderAction Method
+The RenderAction() method invokes the specified child action method and renders the result in the parent view.
+
+To render the partial view using the RenderAction() method, you need to create an action method in the StudentController class. So, create the StudentList() action method as shown below.
+
+Example: RenderAction() Copy
+public class StudentController : Controller
+{
+    IList<Student> students;
+
+    public StudentController()
+    {
+        students = new List<Student>{ 
+                        new Student() { StudentId = 1, StudentName = "John", Age = 18 } ,
+                        new Student() { StudentId = 2, StudentName = "Steve",  Age = 21 } ,
+                        new Student() { StudentId = 3, StudentName = "Bill",  Age = 25 } ,
+                        new Student() { StudentId = 4, StudentName = "Ram" , Age = 20 } ,
+                        new Student() { StudentId = 5, StudentName = "Ron" , Age = 31 } ,
+                        new Student() { StudentId = 6, StudentName = "Chris",  Age = 17 } ,
+                        new Student() { StudentId = 7, StudentName = "Rob",Age = 19  } ,
+                    };
+    }
+
+    // GET: Student
+    public ActionResult Index()
+    {
+        return View();
+    }
+
+    [ChildActionOnly]
+    public ActionResult StudentList()
+    {
+        return PartialView(students);
+    }
+}
+The StudentList() action method is marked with the ChildActionOnly() attribute, so that it will be invoked as a child action from the view, and not directly from the URL. Also, notice that the StudentList() action method injects IList<student> so we don't need to inject the model in the Index() method.
+
+The following Index.cshtml uses the RenderAction() method to render the _StudentList partial view.
+
+Index.cshtml Copy
+<h3>Student List</h3>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@{
+    Html.RenderAction("StudentList", "Student");
+}

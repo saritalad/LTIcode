@@ -17,12 +17,20 @@ namespace MVC_PartialView_Demo.Controllers
             return View();
         }
 
-        
+ 
         public ActionResult Countries(List<String> countryData)
         {
             return View(countryData);
         }
-
+        public IActionResult IndexVC(int maxPriority = 2, bool isDone = false)
+        {
+            return ViewComponent("PriorityList",
+                new
+                {
+                    maxPriority = maxPriority,
+                    isDone = isDone
+                });
+        }
 
     }
 }

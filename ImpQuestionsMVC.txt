@@ -1,0 +1,7 @@
+14 How to enable bundling and minification in ASP.NET MVC?
+15How to bind a model to a partial view in ASP.NET MVC?
+(Use Student Model :3 ways to display Partial View on Index page)
+1 the Html.Partial(), 2Html.RenderPartial()  or 3 Html.RenderAction() method.
+16 Display Field Level Error Messages using Validation Summary
+17 How to enable client side validation in ASP.NET MVC? With example
+18 What is RouteData in ASP.NET MVC?

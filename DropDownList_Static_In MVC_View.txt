@@ -1,0 +1,7 @@
+ <div class="form-group row">
+        <label asp-for="Branch" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <select asp-for="Branch" class="custom-select mr-sm-2"
+                    asp-items="Html.GetEnumSelectList<Branch>()"></select>
+        </div>
+    </div>

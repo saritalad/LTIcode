@@ -1,0 +1,23 @@
+What is RouteData in ASP.NET MVC?
+answer:RouteData is a property of the base Controller class, so RouteData can be accessed in any controller.
+ RouteData contains route information of a current request. You can get the controller, action or parameter
+ information using RouteData as shown below.
+
+Example: RouteData in MVC Copy
+public class StudentController : Controller
+{
+    public ActionResult Index(int? id, string name, int? standardId)
+    {
+        var controller = RouteData.Values["controller"];
+        var action = RouteData.Values["action"];
+            
+        id = (int)RouteData.Values["id"];
+        name = (string)RouteData.Values["name"];
+        standrdId = (int)RouteData.Values["standardId"];
+
+        var area = RouteData.DataTokens["areaname"];
+
+
+        return View();
+    }
+}

@@ -1,0 +1,11 @@
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/hands-on-labs/aspnet-mvc-4-fundamentals
+
+do  the following exercises:with the lep of above microsoft link
+
+Exercise 1: Creating MusicStore ASP.NET MVC Web Application Project
+Exercise 2: Creating a Controller
+Exercise 3: Passing parameters to a Controller
+Exercise 4: Creating a View
+Exercise 5: Creating a View Model
+Exercise 6: Using parameters in View
+Exercise 7: A lap around ASP.NET MVC 4 New Template

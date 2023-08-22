@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+// Assignment  :write class Batch with BatchId,BatchName , Trainers LIst for every batch
 namespace LINQ_Opearors_Group_Demo
 {
     public class Student1

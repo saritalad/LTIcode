@@ -61,7 +61,7 @@ namespace MVC_INMemoryDB_IMP.INMSERVICES
 
        }
         public static Customer GetCustomer(int GivenId)
-        {
+        { //select CusiId,Name,  from CustomerList where CustomerId=GivenId
             return CustomersList.FirstOrDefault(cust => cust.CustomerID == GivenId);
 
                     }

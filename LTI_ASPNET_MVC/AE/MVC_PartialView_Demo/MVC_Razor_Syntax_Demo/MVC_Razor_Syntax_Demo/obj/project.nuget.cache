@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5/SmEfG2K9XCC/A+WfDMqqHvZqdroW6pwIGxPcpudSZ374k8wLD49fH22ZDM70p52tyXcPoyA8YfRROMjxoxw==",
+  "success": true,
+  "projectFilePath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_Razor_Syntax_Demo\\MVC_Razor_Syntax_Demo\\MVC_Razor_Syntax_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

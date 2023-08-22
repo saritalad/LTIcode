@@ -17,7 +17,7 @@ namespace LINQ_Opearors_Group_Demo
         {
             new Student { ID = 1001, Name = "Preety", Gender = "Female",
                                         Branch = "CSE", Age = 20 },
-            new Student { ID = 1002, Name = "Snurag", Gender = "Male",
+            new Student { ID = 1002, Name = "Anurag", Gender = "Male",
                                         Branch = "ETC", Age = 21  },
             new Student { ID = 1003, Name = "Pranaya", Gender = "Male",
                                         Branch = "CSE", Age = 23  },

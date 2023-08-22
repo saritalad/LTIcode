@@ -6,10 +6,10 @@ namespace LINQ_Opearors_Group_Demo
 {
     public class Employee
     {
-        public int ID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public int Salary { get; set; }
+                    public int ID { get; set; }
+                    public string FirstName { get; set; }
+                    public string LastName { get; set; }
+                    public int Salary { get; set; }
         public static List<Employee> GetEmployees()
         {
             List<Employee> employees = new List<Employee>

@@ -1,0 +1,12 @@
+Angular Basic Practice Exercises
+
+1Create a simple “Hello, World!” application using Angular.
+2Create a component that displays a list of items.
+3Create a component that inputs and outputs data.
+4Create a component that uses two-way data binding.
+5Create a component that uses directives, such as ngIf or ngFor.
+6Create a component that uses a service to retrieve data from an API.
+7Create a component that uses forms, including template-driven and reactive forms.
+8Create a component that uses pipes to format data.
+9Create a component that implements navigation using the Router module.
+10Create a component that implements basic animations using the Animation module.

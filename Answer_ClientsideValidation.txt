@@ -1,0 +1,41 @@
+How to enable client side validation in ASP.NET MVC?
+ASP.NET MVC By TutorialsTeacher  28 Jul 2016
+You have already learned how to implement validation in the MVC tutorials section. Here, we will enable client-side validation.
+
+ASP.NET MVC supports client-side validation using jQyery. First, you need to take a reference of two javascript files from the Scripts folder, jquery.validate.unobtrusive.js (jquery.validate.min.js and jquery.validate.unobtrusive.min.js are minified files) in your layout file as shown below.
+
+Example: Add jQuery Validation Script Files
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css") 
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+     @Html.Partial("_HeaderNavBar");   
+    <div class="container body-content">
+        @RenderBody()
+        
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/Scripts/jquery.validate.min.js")
+    @Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+===========================
+Now, add the following two settings in the <appSettings> section of web.config, if they are not there.
+
+App Settings in web.config Copy
+<appSettings>
+    <add key="ClientValidationEnabled" value="true"/>
+    <add key="UnobtrusiveJavaScriptEnabled" value="true"/>
+</appSettings>

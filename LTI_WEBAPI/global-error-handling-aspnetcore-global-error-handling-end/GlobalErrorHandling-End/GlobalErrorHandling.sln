@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalErrorHandling", "GlobalErrorHandling\GlobalErrorHandling.csproj", "{AF62693C-1877-485B-865D-C3CAEB2CBA12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{B61D597A-BF38-4F7D-BE39-C024B59C114D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF62693C-1877-485B-865D-C3CAEB2CBA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF62693C-1877-485B-865D-C3CAEB2CBA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF62693C-1877-485B-865D-C3CAEB2CBA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF62693C-1877-485B-865D-C3CAEB2CBA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61D597A-BF38-4F7D-BE39-C024B59C114D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61D597A-BF38-4F7D-BE39-C024B59C114D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61D597A-BF38-4F7D-BE39-C024B59C114D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61D597A-BF38-4F7D-BE39-C024B59C114D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9B2F79-1783-4500-B905-45712FB7606D}
+	EndGlobalSection
+EndGlobal

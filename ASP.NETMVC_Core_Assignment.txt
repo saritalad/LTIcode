@@ -1,0 +1,24 @@
+1 Create one asp.net MVC core Project and by changing AspNetCoreHostingModel
+in Project file test the project hosting: for InProcess and OutProcess
+Observe the server Name 
+2 write code in Miiddle ware to read Process name 
+use following method "System.Diagnostics.Process.GetCurrentProcess().ProcessName"
+3 Write Response.WriteAsync code in  startup class to read Configuration settings from Launchsetting 4
+.json file 
+4 Write Action method Index in Home controller to read Config settings from Appsettings.Json File
+5 Write Action Method Index in Home Controller to read config settings from AppSettings.Json File 
+6 Write Action Method Index in Home Controller to read Config Settings from various configuration Sourcess
+and read then on View Using ViewBag or ViewData
+7 Create MVC app and use EF to display Employee records from Database.
+8 Create MVC app and use EF to Update Employee record from Database
+9 Create MVC app use in Memory Object (List) and do CRUD operations 
+10 Create MVC app - Create Registration , LogIn , Forgot password views Use Microsoft Identity 
+for Authentication
+11 Create MVC app use Attribute Routing for the Product CRUD  operation app 
+12 Create MVC app use Tempdata to display User's Name on every page of Product View in above 
+app .
+14 Create MVC app to do CRUD operation on Student Model use Code First approach ,
+Use EF and list out dependencies to be added 
+15 In above example use data annotation for Validation, then do Migration.
+16 In above example use Tag helpers for construction of Views, along with Validation .
+ 
