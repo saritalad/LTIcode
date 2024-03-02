@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = MVCApp1
 build_property.ProjectDir = E:\LTI\LTI_ASPNET_MVC\AE\MVC_Demo1\MVCApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

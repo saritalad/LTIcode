@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = WEBAPI_Example
 build_property.ProjectDir = E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEBAPI_Example\WEBAPI_Example\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

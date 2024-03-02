@@ -1,0 +1,7 @@
+1 Generating Identity  is Identiprovider token
+2 to access : Protected Resources [Autorize]  Audience or scope 
+3 Client App like MVC, Angular to authenticate the token
+what is JWT Authentication?
+
+which are the identity providers: 1 face book, google, active directory
+what is claim:

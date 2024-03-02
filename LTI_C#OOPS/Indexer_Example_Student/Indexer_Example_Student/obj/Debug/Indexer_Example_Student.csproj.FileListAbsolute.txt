@@ -12,3 +12,10 @@ F:\D Drive\C_Sharp\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Ind
 F:\D Drive\C_Sharp\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.csproj.CoreCompileInputs.cache
 F:\D Drive\C_Sharp\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.exe
 F:\D Drive\C_Sharp\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.pdb
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\bin\Debug\Indexer_Example_Student.exe.config
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\bin\Debug\Indexer_Example_Student.exe
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\bin\Debug\Indexer_Example_Student.pdb
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.csproj.AssemblyReference.cache
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.csproj.CoreCompileInputs.cache
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.exe
+E:\LTI\LTI_C#OOPS\Indexer_Example_Student\Indexer_Example_Student\obj\Debug\Indexer_Example_Student.pdb

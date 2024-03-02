@@ -36,3 +36,9 @@ E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example
 E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\WEbAPI_ModelState_Example.dll
 E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\WEbAPI_ModelState_Example.pdb
 E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\WEbAPI_ModelState_Example.genruntimeconfig.cache
+E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\WEbAPI_ModelState_Example.sourcelink.json
+E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\staticwebassets\WEbAPI_ModelState_Example.StaticWebAssets.Pack.cache
+E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WEbAPI_ModelState_Example.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WEbAPI_ModelState_Example.props
+E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WEbAPI_ModelState_Example.props
+E:\LTI\LTI_WEBAPI\LTI_WEBAPI\WEbAPI_ModelState_Example\WEbAPI_ModelState_Example\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WEbAPI_ModelState_Example.props

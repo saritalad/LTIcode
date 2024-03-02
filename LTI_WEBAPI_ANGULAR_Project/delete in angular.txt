@@ -8,7 +8,7 @@
     }
     <a [routerLink]="['edit',user.id]">Edit</a>|<a (click)="deleteuser(user.id)"  href="javascript:void()">delete</a></td>
 
-[16:20] Atul Rathour
+
 delete(id:Number){
     // console.log(id);
     this._userservice.deleteUser(id).subscribe();

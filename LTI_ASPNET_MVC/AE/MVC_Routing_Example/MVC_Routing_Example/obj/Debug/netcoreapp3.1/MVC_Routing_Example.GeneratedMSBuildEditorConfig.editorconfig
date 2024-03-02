@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = MVC_Routing_Example
 build_property.ProjectDir = E:\LTI\LTI_ASPNET_MVC\AE\MVC_Routing_Example\MVC_Routing_Example\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,7 @@
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\bin\Debug\LamdaExpression.exe.config
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\bin\Debug\LamdaExpression.exe
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\bin\Debug\LamdaExpression.pdb
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\obj\x86\Debug\LamdaExpressionsOnList.csproj.AssemblyReference.cache
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\obj\x86\Debug\LamdaExpressionsOnList.csproj.CoreCompileInputs.cache
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\obj\x86\Debug\LamdaExpression.exe
+E:\LTI\LTI_C#OOPS\LamdaExpressionsOnList\obj\x86\Debug\LamdaExpression.pdb

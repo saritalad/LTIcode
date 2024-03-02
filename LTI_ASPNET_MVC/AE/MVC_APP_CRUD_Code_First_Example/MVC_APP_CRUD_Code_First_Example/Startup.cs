@@ -24,8 +24,7 @@ namespace MVC_APP_CRUD_Code_First_Example
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<WorkingContext>(item =>
-              item.UseSqlServer(Configuration.GetConnectionString("MyConStr")));
+            services.AddDbContext<WorkingContext>(item =>item.UseSqlServer(Configuration.GetConnectionString("MyConStr")));
 
             services.AddControllersWithViews();
         }

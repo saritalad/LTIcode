@@ -1,0 +1,11 @@
+1 aLGORITHM
+2 Key :salt
+3 claims from database 
+4 expiry date
+==============================
+security key class Symettry 
+Token class :SigningCredientials
+claims
+JWtSecurityToken 
+JwtSecurityTokenHandkler()
+

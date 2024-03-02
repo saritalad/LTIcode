@@ -1,0 +1,139 @@
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.staticwebassets.runtime.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.exe
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.deps.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.pdb
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Humanizer.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.csproj.AssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets.build.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets.development.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\scopedcss\bundle\Identity.styles.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\scopedcss\projectbundle\Identity.bundle.scp.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\refint\Identity.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.pdb
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\obj\Debug\net6.0\ref\Identity.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\appsettings.Development.json
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\appsettings.json
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.staticwebassets.runtime.json
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.exe
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.deps.json
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.runtimeconfig.json
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Identity.pdb
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Humanizer.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LTI\Identity\6\Identity\Identity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.csproj.AssemblyReference.cache
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.AssemblyInfoInputs.cache
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.AssemblyInfo.cs
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.csproj.CoreCompileInputs.cache
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.MvcApplicationPartsAssemblyInfo.cache
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.RazorAssemblyInfo.cache
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.RazorAssemblyInfo.cs
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets\msbuild.build.Identity.props
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Identity.props
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets.pack.json
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets.build.json
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\staticwebassets.development.json
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\scopedcss\bundle\Identity.styles.css
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\scopedcss\projectbundle\Identity.bundle.scp.css
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.csproj.CopyComplete
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.dll
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\refint\Identity.dll
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.pdb
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\Identity.genruntimeconfig.cache
+E:\LTI\Identity\6\Identity\Identity\obj\Debug\net6.0\ref\Identity.dll

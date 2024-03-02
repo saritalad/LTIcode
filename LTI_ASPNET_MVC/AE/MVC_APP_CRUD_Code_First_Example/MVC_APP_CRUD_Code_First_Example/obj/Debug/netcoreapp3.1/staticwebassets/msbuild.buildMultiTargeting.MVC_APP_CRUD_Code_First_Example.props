@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_APP_CRUD_Code_First_Example.props" />
+</Project>

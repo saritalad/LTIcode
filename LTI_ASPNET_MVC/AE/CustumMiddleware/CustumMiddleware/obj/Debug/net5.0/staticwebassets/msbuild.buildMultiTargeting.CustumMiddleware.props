@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CustumMiddleware.props" />
+</Project>
