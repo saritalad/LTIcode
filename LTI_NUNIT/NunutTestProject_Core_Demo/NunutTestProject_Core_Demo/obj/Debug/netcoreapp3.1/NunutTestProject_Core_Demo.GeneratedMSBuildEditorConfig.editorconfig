@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = NunutTestProject_Core_Demo
 build_property.ProjectDir = E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

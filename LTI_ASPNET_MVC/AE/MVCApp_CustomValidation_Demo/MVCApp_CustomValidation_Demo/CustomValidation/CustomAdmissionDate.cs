@@ -10,7 +10,7 @@ namespace MVCApp_CustomValidation_Demo.CustomValidation
         public override bool IsValid(object value)
         {
             DateTime dateTime = Convert.ToDateTime(value);
-            return dateTime <= DateTime.Now;
+            return dateTime <= DateTime.Now;//true or false
         }
     }
 }

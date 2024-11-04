@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = API_Versioning_Demo
 build_property.ProjectDir = E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

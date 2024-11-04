@@ -68,7 +68,6 @@ E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\net
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_PartialView_Demo.dll
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_PartialView_Demo.pdb
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_PartialView_Demo.genruntimeconfig.cache
-E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_PartialView_Demo.csproj.CopyComplete
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\bin\Debug\netcoreapp3.1\Humanizer.dll
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -191,3 +190,11 @@ E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\net
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_StudentList.cshtml.g.cs
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_PartialView_Demo.csproj.AssemblyReference.cache
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_PartialView_Demo.sourcelink.json
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\staticwebassets\MVC_PartialView_Demo.StaticWebAssets.Pack.cache
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_PartialView_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_PartialView_Demo.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_PartialView_Demo.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_PartialView_Demo.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\obj\Debug\netcoreapp3.1\MVC_Part.7C580F05.Up2Date

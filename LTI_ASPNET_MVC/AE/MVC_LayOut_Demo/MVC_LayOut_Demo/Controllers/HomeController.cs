@@ -16,6 +16,10 @@ namespace MVC_LayOut_Demo.Controllers
 
         }
 
+        public ActionResult Hello()
+        {
+            return View();
+        }
 
 
         public IActionResult Index()

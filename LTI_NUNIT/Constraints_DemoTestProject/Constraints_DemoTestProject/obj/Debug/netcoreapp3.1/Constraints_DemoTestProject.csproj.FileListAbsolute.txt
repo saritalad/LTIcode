@@ -91,7 +91,8 @@ E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Deb
 E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.AssemblyInfoInputs.cache
 E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.AssemblyInfo.cs
 E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.csproj.CoreCompileInputs.cache
-E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.csproj.CopyComplete
 E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.dll
 E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.pdb
 E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.genruntimeconfig.cache
+E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constraints_DemoTestProject.sourcelink.json
+E:\LTI\LTI_NUNIT\Constraints_DemoTestProject\Constraints_DemoTestProject\obj\Debug\netcoreapp3.1\Constrai.6C53C9DD.Up2Date

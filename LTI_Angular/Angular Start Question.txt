@@ -2,7 +2,7 @@
 dependecy injection  why private 
 inline template  how to write multiline tags ?
 
-npm install -g @angular/cli
+npm install -g @angular/cli@16.0
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 npm -version
 ===========================================================

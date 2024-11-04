@@ -119,8 +119,15 @@ E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.RazorTargetAssemblyInfo.cache
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.RazorTargetAssemblyInfo.cs
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.Views.pdb
-E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.csproj.CopyComplete
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.dll
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.pdb
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.genruntimeconfig.cache
 E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.csproj.AssemblyReference.cache
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayOut_Demo.sourcelink.json
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\staticwebassets\MVC_LayOut_Demo.StaticWebAssets.Pack.cache
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\staticwebassets\msbuild.MVC_LayOut_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.MVC_LayOut_Demo.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_LayOut_Demo.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_LayOut_Demo.props
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\MVC_LayO.413A4F44.Up2Date
+E:\LTI\LTI_ASPNET_MVC\AE\MVC_LayOut_Demo\MVC_LayOut_Demo\obj\Release\netcoreapp3.1\Razor\Views\Home\Hello.cshtml.g.cs

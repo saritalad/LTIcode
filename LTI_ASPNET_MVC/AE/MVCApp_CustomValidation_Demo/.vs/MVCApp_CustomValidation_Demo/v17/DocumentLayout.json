@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvcapp_customvalidation_demo\\mvcapp_customvalidation_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|solutionrelative:mvcapp_customvalidation_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvcapp_customvalidation_demo\\mvcapp_customvalidation_demo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|solutionrelative:mvcapp_customvalidation_demo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvcapp_customvalidation_demo\\mvcapp_customvalidation_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|solutionrelative:mvcapp_customvalidation_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvcapp_customvalidation_demo\\mvcapp_customvalidation_demo\\customvalidation\\customadmissiondate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|solutionrelative:mvcapp_customvalidation_demo\\customvalidation\\customadmissiondate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvcapp_customvalidation_demo\\mvcapp_customvalidation_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|solutionrelative:mvcapp_customvalidation_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\C Programs15\\commlinearg.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvcapp_customvalidation_demo\\mvcapp_customvalidation_demo\\customvalidation\\min18years.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5794610E-ADC7-4E04-B8BC-69A73D877F11}|MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo.csproj|solutionrelative:mvcapp_customvalidation_demo\\customvalidation\\min18years.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCApp_CustomValidation_Demo\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "MVCApp_CustomValidation_Demo\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:48:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCApp_CustomValidation_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCApp_CustomValidation_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:48:11.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCApp_CustomValidation_Demo\\appsettings.json",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\appsettings.json",
+              "RelativeToolTip": "MVCApp_CustomValidation_Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T06:41:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCApp_CustomValidation_Demo\\Models\\Student.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\Models\\Student.cs",
+              "RelativeToolTip": "MVCApp_CustomValidation_Demo\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:33:31.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "commlinearg.c",
+              "DocumentMoniker": "F:\\C Programs15\\commlinearg.c",
+              "ToolTip": "F:\\C Programs15\\commlinearg.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T05:02:10.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Min18Years.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\CustomValidation\\Min18Years.cs",
+              "RelativeDocumentMoniker": "MVCApp_CustomValidation_Demo\\CustomValidation\\Min18Years.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\CustomValidation\\Min18Years.cs",
+              "RelativeToolTip": "MVCApp_CustomValidation_Demo\\CustomValidation\\Min18Years.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:02:37.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAdmissionDate.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\CustomValidation\\CustomAdmissionDate.cs",
+              "RelativeDocumentMoniker": "MVCApp_CustomValidation_Demo\\CustomValidation\\CustomAdmissionDate.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVCApp_CustomValidation_Demo\\MVCApp_CustomValidation_Demo\\CustomValidation\\CustomAdmissionDate.cs",
+              "RelativeToolTip": "MVCApp_CustomValidation_Demo\\CustomValidation\\CustomAdmissionDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:02:19.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

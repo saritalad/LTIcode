@@ -1,0 +1,14 @@
+ <div class="form-group">
+                            <label for="course">Course:</label>
+                            <select class="form-control" id="course" name="course" [(ngModel)]="selectedCourseId" (change)="onCourseChange(selectedCourseId)">
+                              <option *ngFor="let course of courselist" [value]="course.courseId">{{ course.title }}</option>
+                            </select>
+                          </div>
+=================
+selectedCourseId: number = 0; // To store the selected courseId
+onCourseChange(courseId: number) {
+  this.selectedCourseId = courseId;
+  this.newenquiry.courseId=this.selectedCourseId;
+  console.log('Selected Course ID:',this.newenquiry.courseId);
+  // You can perform actions based on the selected course ID here
+}

@@ -1,0 +1,25 @@
+
+<div class="container">
+    <h1>Products</h1>
+    <table class="table table-hover table-warning">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Product name</th>
+            <th scope="col">Cost</th>
+            <th scope="col">Stock</th>
+          </tr>
+        </thead>
+               <tbody>
+          <tr *ngFor="let p of products">
+            <td>{{p.productId}}</td>
+            <td>{{p.productName}}</td>
+            <td>{{p.productCost}}</td>
+            <td>{{p.productStock}}</td>
+          </tr>
+                   
+        </tbody>
+      </table>
+
+
+</div>

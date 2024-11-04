@@ -12,7 +12,6 @@ E:\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\ref\NUITDEmo.dll
 E:\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.pdb
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\bin\Debug\net5.0\NUITDEmo.deps.json
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\bin\Debug\net5.0\NUITDEmo.dll
-E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\bin\Debug\net5.0\ref\NUITDEmo.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\bin\Debug\net5.0\NUITDEmo.pdb
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.csproj.AssemblyReference.cache
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.GeneratedMSBuildEditorConfig.editorconfig
@@ -22,3 +21,5 @@ E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.cspr
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\ref\NUITDEmo.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.pdb
+E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\NUITDEmo.sourcelink.json
+E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NUITDEmo\obj\Debug\net5.0\refint\NUITDEmo.dll

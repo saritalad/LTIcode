@@ -19,3 +19,10 @@ E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.
 E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\API_Versioning_Demo.dll
 E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\API_Versioning_Demo.pdb
 E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\API_Versioning_Demo.genruntimeconfig.cache
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\API_Versioning_Demo.csproj.AssemblyReference.cache
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\API_Versioning_Demo.sourcelink.json
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\staticwebassets\API_Versioning_Demo.StaticWebAssets.Pack.cache
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.API_Versioning_Demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.API_Versioning_Demo.props
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.API_Versioning_Demo.props
+E:\LTI\LTI_WEBAPI\API_Versioning_Demo\API_Versioning_Demo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.API_Versioning_Demo.props

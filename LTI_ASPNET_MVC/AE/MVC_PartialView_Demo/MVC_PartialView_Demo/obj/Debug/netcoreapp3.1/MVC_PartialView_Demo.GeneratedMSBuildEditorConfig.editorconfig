@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = MVC_PartialView_Demo
 build_property.ProjectDir = E:\LTI\LTI_ASPNET_MVC\AE\MVC_PartialView_Demo\MVC_PartialView_Demo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

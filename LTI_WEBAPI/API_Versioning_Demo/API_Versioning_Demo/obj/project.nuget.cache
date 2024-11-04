@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pMqySIFB9WsSljUV1EtwfB5Gupk2iAyPH48XiyYRPvKxQqavbzvpRjo2djFGsE9K5yvR+XQBB26Q/sN6nJr5ng==",
+  "dgSpecHash": "ub64QfeeeKdplk6xZ8fkH0LxlUQvVD7wQWKIPWJhgaJ1WC6ICjDFJKPeVwm9ievRJfhCG8mI9TAGPVQiwqKFfQ==",
   "success": true,
   "projectFilePath": "E:\\LTI\\LTI_WEBAPI\\API_Versioning_Demo\\API_Versioning_Demo\\API_Versioning_Demo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512"
   ],
   "logs": []
 }

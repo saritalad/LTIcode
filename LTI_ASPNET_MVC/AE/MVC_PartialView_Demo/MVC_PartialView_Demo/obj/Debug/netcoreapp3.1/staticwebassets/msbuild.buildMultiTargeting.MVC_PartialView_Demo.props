@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_PartialView_Demo.props" />
+</Project>

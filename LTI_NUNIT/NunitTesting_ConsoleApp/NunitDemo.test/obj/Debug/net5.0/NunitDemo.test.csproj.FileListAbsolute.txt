@@ -113,7 +113,6 @@ E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\NunitDe
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\NunitDemo.test.runtimeconfig.json
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\NunitDemo.test.runtimeconfig.dev.json
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\NunitDemo.test.dll
-E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\ref\NunitDemo.test.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\NunitDemo.test.pdb
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -197,8 +196,10 @@ E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDe
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.AssemblyInfoInputs.cache
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.AssemblyInfo.cs
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.csproj.CoreCompileInputs.cache
-E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.csproj.CopyComplete
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\ref\NunitDemo.test.dll
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.pdb
 E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.genruntimeconfig.cache
+E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDemo.test.sourcelink.json
+E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\NunitDem.889ED778.Up2Date
+E:\LTI\LTI_NUNIT\NunitTesting_ConsoleApp\NunitDemo.test\obj\Debug\net5.0\refint\NunitDemo.test.dll

@@ -11,3 +11,16 @@
             <option value="">Choose Department</option>
         </select>
 ------------------------------------------
+
+  var catlist = from cat in _context.Categories
+                          select new SelectListItem()
+                          {
+                              Text = cat.Name,
+                              Value = cat.Id.ToString()
+                          };
+            ViewBag.categories = catlist;
+====================
+<label asp-for="CatId" class="control-label"></label>
+                <select asp-for="CatId" class="form-control" asp-items="ViewBag.categories">
+                    <option>choose Category</option>
+                    </select>

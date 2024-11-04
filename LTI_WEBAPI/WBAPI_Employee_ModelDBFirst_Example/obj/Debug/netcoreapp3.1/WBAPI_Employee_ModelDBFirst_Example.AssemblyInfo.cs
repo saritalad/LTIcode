@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WBAPI_Employee_ModelDBFirst_Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6852a0253a8e023f5aa78ff499f7485bfc2ad9e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WBAPI_Employee_ModelDBFirst_Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WBAPI_Employee_ModelDBFirst_Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

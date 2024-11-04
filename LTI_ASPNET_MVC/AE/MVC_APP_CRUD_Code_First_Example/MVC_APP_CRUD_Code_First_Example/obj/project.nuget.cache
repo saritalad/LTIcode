@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jqw6JFgkKSOK1QUnwdHmnZFEjzVem1VSD2BmqiJsemusjw57Of19fgNZhOhZhGb7a+AH937O/iCaMfcjGCTnDA==",
+  "dgSpecHash": "dyjRqheHfCquaK91vm7z/aWHXbju70OhRnwXqni+F00NZNnzFIc0nmuAZZEkprxxQ3Hxg3B57DC2VqViPNcFaQ==",
   "success": true,
   "projectFilePath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_APP_CRUD_Code_First_Example\\MVC_APP_CRUD_Code_First_Example\\MVC_APP_CRUD_Code_First_Example.csproj",
   "expectedPackageFiles": [
@@ -164,7 +164,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

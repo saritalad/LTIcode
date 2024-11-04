@@ -188,7 +188,8 @@ E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug
 E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.AssemblyInfoInputs.cache
 E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.AssemblyInfo.cs
 E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.csproj.CoreCompileInputs.cache
-E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.csproj.CopyComplete
 E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.dll
 E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.pdb
 E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.genruntimeconfig.cache
+E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTestProject_Core_Demo.sourcelink.json
+E:\LTI\LTI_NUNIT\NunutTestProject_Core_Demo\NunutTestProject_Core_Demo\obj\Debug\netcoreapp3.1\NunutTes.DABD77E1.Up2Date

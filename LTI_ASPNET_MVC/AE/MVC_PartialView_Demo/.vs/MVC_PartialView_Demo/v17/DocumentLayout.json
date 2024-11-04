@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\views\\course\\calculus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\views\\course\\calculus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\migrations\\20241010152147_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\migrations\\20241010152147_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\views\\shared\\_studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\views\\shared\\_studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|e:\\lti\\lti_aspnet_mvc\\ae\\mvc_partialview_demo\\mvc_partialview_demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FA6A4B-58A5-4EC7-A190-8E1414230858}|MVC_PartialView_Demo\\MVC_PartialView_Demo.csproj|solutionrelative:mvc_partialview_demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241010152147_m2.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Migrations\\20241010152147_m2.cs",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Migrations\\20241010152147_m2.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Migrations\\20241010152147_m2.cs",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Migrations\\20241010152147_m2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:21:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Startup.cs",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Startup.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Startup.cs",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Startup.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:19:23.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\appsettings.json",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\appsettings.json",
+              "RelativeToolTip": "MVC_PartialView_Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T15:17:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_StudentList.cshtml",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Views\\Shared\\_StudentList.cshtml",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Views\\Shared\\_StudentList.cshtml",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Views\\Shared\\_StudentList.cshtml",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Views\\Shared\\_StudentList.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:14:40.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Models\\Student.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Models\\Student.cs",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Models\\Student.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA1wB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:13:27.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculus.cshtml",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Views\\Course\\Calculus.cshtml",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Views\\Course\\Calculus.cshtml",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Views\\Course\\Calculus.cshtml",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Views\\Course\\Calculus.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:13:08.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Controllers\\CourseController.cs*",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Controllers\\CourseController.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:12:08.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC_PartialView_Demo\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\LTI\\LTI_ASPNET_MVC\\AE\\MVC_PartialView_Demo\\MVC_PartialView_Demo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC_PartialView_Demo\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:12:02.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
