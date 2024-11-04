@@ -1,0 +1,29 @@
+<div class="container">
+
+    <div class="row">
+        <div class="col col-md-6 mx-auto">
+            <H1>Login Form:</H1>
+            <form #form="ngForm" (ngSubmit)="onSubmit(form)">
+                <div>
+                    <label for="email">Email </label>
+                    <input type="text" name="email" ngModel>
+                </div>
+                <br>
+                <div>
+                    <label for="password">Password </label>
+                    <input type="text" name="password" ngModel>
+
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-primary">LogIn</button>
+                </div>
+            </form>
+            <br>
+            {{form.value|json}}
+
+
+
+
+        </div>
+    </div>
+</div>
